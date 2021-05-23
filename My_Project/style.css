@@ -16,7 +16,7 @@ html{
     position: sticky;
     top:0;
     width: 100%;
-    height: 70px;
+    height: 60px;
     background:  #1a001a;
     display: flex;
     align-items: center;
@@ -40,7 +40,7 @@ html{
    
     display: flex;
     justify-content:space-evenly;
-    padding:23px 40px;
+    padding:18px 40px;
     text-decoration: none;
     font-weight: bold;
     font-size: 17px;
@@ -472,4 +472,9 @@ summary {
     flex-direction: column;
     width: 100%;
     background: rgb(206, 241, 240);
+}
+.created{
+    
+    color: black;
+    opacity: 0.7;
 }
