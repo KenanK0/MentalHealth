@@ -1,0 +1,474 @@
+body{
+    
+   cursor: none;
+    margin:0;
+    font-family: sans-serif;
+}
+.main1{
+    background: whitesmoke;
+    
+}
+.nav  {
+    z-index: 1;
+    position: sticky;
+    top:0;
+    width: 100%;
+    height: 70px;
+    background:  #1a001a;
+    display: flex;
+    align-items: center;
+    
+    
+}
+.logo{
+  margin:0;
+  
+  color:#FFF;
+}
+
+.links{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+.links a{
+   
+    display: flex;
+    justify-content:space-evenly;
+    padding:23px 40px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 17px;
+    color:#FFF;
+    
+}
+
+.links a:hover{
+    
+    color: red;
+    background:   #b3ccff;
+    border-bottom: solid red;
+    border-top: solid red;
+    transition: color 0.5s, background 0.5s;
+}
+.video{
+    height: 80vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    margin:0;
+    
+  
+}
+.mh{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 50px;
+    
+    letter-spacing: 15px;
+  
+   
+}
+.mh:hover{
+    color: maroon;
+    text-decoration: underline;
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+.part1{
+    background-image: url('mentalhealth4.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+
+}
+.paragrah{
+    margin-left: 30px;
+    font-weight: bolder;
+    color:maroon;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    width: 40%;
+    
+
+}
+
+button{
+    cursor: pointer;
+}
+.btn{
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 20px;
+    width: 45%;
+    height: 80px;
+    border-radius: 15px;
+    background-color: lightblue;
+    transition: 0.5s;
+    
+}
+
+
+.disappear{
+    opacity: 1;
+}
+.appear{
+    transition: 1.5s;
+    opacity: 1;
+    transform: translateY(-120px);
+}
+.next{
+    
+    font-weight: bolder;
+    color:maroon;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    width: 50%;
+    margin-top: 150px;
+
+}
+
+.reveal{
+    opacity: 1;
+    transform: translateY(-30deg);
+}
+.reveal-visible{
+    opacity: 1;
+    transform: translateY(0);
+    transition: 2.5s;
+
+}
+.cursor{
+    z-index: 5;
+    position: fixed;
+    top:0;
+    left:0;
+    width: 70px;
+    height: 70px;
+    border: red 1px solid rgb(117, 113, 113);
+    border-radius: 50%;
+    transform: translate(-50%,-50%);
+    transition: 0.1s;
+    background: red;
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.cursor2{
+    z-index: 5;
+    position: fixed;
+    top:0;
+    left:0;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    transform: translate(-50%,-50%);
+    transition: 0.15s;
+    pointer-events: none;
+}
+
+footer{
+   
+    background-image: url(footerbg.jpg);
+    padding: 5px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 45vh;
+    justify-content: center;
+}
+.more{
+    color:black;
+    padding: 10px;
+    font-size: 25px;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+
+}
+.contact{
+    color: black;
+    padding: 10px;
+    font-size: 25px;
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    
+
+
+}
+
+.morecontent{
+    font-size: 15px;
+    
+}
+input[type=email]{
+    border-radius: 5px;
+    padding:4px;
+}
+.contactcontent{
+    font-size: 15px;
+}
+.contacta{
+    font-size: 15px;
+}
+.wlk{
+    height: 100vh;
+    background-size: cover;
+    background-image: url("typesbg2.jpg");
+    background-image: cover;
+    background-repeat: no-repeat;
+}
+h2{
+    font-size: 30px;
+}
+details > summary {
+    
+    padding: 10px;
+    width: 98%;
+    background-color: #eeeeee;
+    border: none;
+    box-shadow: 1px 1px 2px #bbbbbb;
+    cursor: pointer;
+  }
+  
+details > p {
+    background-color: #eeeeee;
+    padding: 4px;
+    margin: 0;
+    box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+
+.fa-facebook{
+    background: #4267B2;
+    color: white;
+}
+
+.fa-twitter{
+    background: #1DA1F2;
+    color: white;
+}
+.fa-instagram{
+    background: #5BC99D;
+    color: white;
+}
+.fa-youtube{
+    background: red;
+    color: white;
+}
+button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+}
+.middle{
+    text-align: center;
+}
+ul li{
+    padding: 10px;
+}
+.intro{
+   position: absolute;
+   right:0;
+   top:80px;
+    padding: 10px;
+    display: flex;
+   
+}
+.typing{
+    position: relative;
+    margin-left: 10px;
+}
+
+.typing::after{
+    content: "";
+    position:absolute;
+    width:1px;
+    right: -5px;
+    height:100%;
+    border-right:2px solid black;
+    animation:blink 0.5s infinite ease;
+}
+@keyframes blink{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity : 1
+    }
+}
+table{
+    position: absolute;
+    right:300px;
+    top:150px;
+}
+table,th,td{
+    
+    width: 25%;
+    border:2px solid black;
+    padding: 8px;
+    text-align: center;
+}
+table{
+    background:lightsteelblue;
+}
+th{
+    background:lightblue;
+}
+tr{
+    background:lightcoral;
+}
+tr:hover{
+    z-index: -1;
+    background: rgb(228, 38, 38);
+    transform: scale(1.2);
+    transition: 0.5s;
+    font-weight: bold;
+    
+
+}
+
+
+td a{
+    color: white;
+    text-decoration: none;
+}
+
+.supportbg1{
+    font-family: cursive;
+    font-size:15px;
+    color: white;
+    padding: 10px;
+    background-image: url("support.jpg");
+    height: 90vh;
+    background-size: cover;
+    
+    
+}
+
+.supportbg2{
+    padding: 5px;
+    background-image: url("ym.jpg");
+    height: 50vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.logo img{
+    height: 8vh;
+    width: auto;
+}
+.logo{
+    padding:15px;
+}
+.mythsbg{
+    background-attachment: fixed;
+    background-image: url("myths2.jpg");
+    height: 89vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+.myths{
+    width: 90%;
+    color: rgb(19, 15, 15);
+    margin: 0.5px;
+    line-height: 1.5;
+    font-size: 18px;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.mythscontent{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+
+   
+}
+.aa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#icon{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    animation: 5s linear 1s infinite alternate slidein;
+}
+@keyframes slidein {
+    0%{
+        transform: translateX(0);
+        opacity: 1;
+    }
+    50%{
+        transform: translateX(400);
+        opacity: 1;
+    }
+    100%{
+        transform: translateX(850px);
+        opacity: 0;
+    }
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+}
+.details {
+  
+    padding: 5px;
+    text-align: center;
+    
+    
+}
+details > summary {
+    
+  padding: 10px;
+  width: 98%;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+} 
+#p{
+    font-size: 15px;
+    padding: 5px;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 1px 1px 2px black;
+}
+summary {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 15px;
+      text-transform: uppercase;
+      
+}
