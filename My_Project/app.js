@@ -34,3 +34,8 @@ let letter='';
     setTimeout(type,150);
     
 }());
+
+var button=document.getElementById("button");
+button.addEventListener('click',function(event){
+    event.preventDefault();
+})

@@ -47,6 +47,13 @@ html{
     color:#FFF;
     
 }
+.active a{ 
+    color: red;
+    background: #b3ccff;
+    padding: 19px 40px;
+    border-bottom: solid red;
+    
+}
 
 .links a:hover{
     
@@ -279,7 +286,7 @@ ul li{
 .intro{
    position: absolute;
    right:0;
-   top:80px;
+   top:500px;
     padding: 10px;
     display: flex;
    
@@ -540,4 +547,8 @@ summary {
 
 .drp-dwn:hover .drpdwn-options {
     display: block;
+}
+.wlk img{
+    margin-left: 550px;
+   
 }

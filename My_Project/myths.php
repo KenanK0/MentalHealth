@@ -27,7 +27,7 @@ include("connection.php");
           <a href="index.php">Home</a>
           <a href="definition.php">Types</a>
          
-         <a href="myths.php">Myths vs Truths</a>
+         <div class="active"><a href="myths.php">Myths vs Truths</a></div>
          <a href="support.php">Support</a>
        
       </nav>
@@ -43,30 +43,30 @@ include("connection.php");
   
               It is up to us to educate others and keep records. <br>
               
-              Here are some common misunderstandings people make and what you need to know <br>
+              Here are some common Mythss people make and what you need to know <br>
   
               
         </p>
         <ul>
-            <li><b><u>Misunderstanding</u></b>: Mental illness means you are "crazy." <br>
+            <li><b><u>Myths</u></b>: Mental illness means you are "crazy." <br>
               <b><u>Fact</u></b>: It's plain and simple, having a mental illness does not mean you are “crazy.” It means you are vulnerable. It means you have an illness with challenging symptoms — the same as someone with an illness like diabetes. While mental illness might alter your thinking, destabilize your moods or skew your perception of reality, that doesn’t mean you are “crazy.” It means you are human and are susceptible to sickness and illness, the same as any other person.  </li>
-              <li><b><u>Misunderstanding : </u></b> <br>
+              <li><b><u>Myths : </u></b> <br>
                   <b><u>Fact : </u></b>
               
               </li>
-              <li><b><u>Misunderstanding : </u></b> <br>
+              <li><b><u>Myths : </u></b> <br>
                   <b><u>Fact : </u></b>
               
               </li>
-              <li><b><u>Misunderstanding : </u></b> <br>
+              <li><b><u>Myths : </u></b> <br>
                   <b><u>Fact : </u></b>
               
               </li>
-              <li><b><u>Misunderstanding : </u></b> <br>
+              <li><b><u>Myths : </u></b> <br>
                   <b><u>Fact : </u></b>
               
               </li>
-              <li><b><u>Misunderstanding : </u></b> <br>
+              <li><b><u>Myths : </u></b> <br>
                   <b><u>Fact : </u></b>
               
               </li>
