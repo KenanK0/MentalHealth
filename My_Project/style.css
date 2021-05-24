@@ -572,6 +572,11 @@ summary {
     display: block;
 }
 .wlk img{
+    margin-top: 40px;
     margin-left: 550px;
    
+}
+iframe{
+    float: right;
+    padding: 0 50px;
 }
