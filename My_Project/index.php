@@ -41,8 +41,10 @@ include("connection.php");
   
   <div class="main1">
     <p class="mh" >MENTAL HEALTH</p>
-    <p>Mental health is Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium similique architecto doloremque aut accusamus assumenda delectus magnam, porro dolorem tempore amet iusto odit! Inventore, assumenda necessitatibus omnis minima porro quos.</p>
-    
+    <div id = "mental_para">
+    <p>Mental health is an integral and essential component of health. According to the WHO constitution, health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity. An important implication of this definition is that mental health is more than just the absence of mental disorders or disabilities.</p>
+    <p>Mental health is a state of well-being in which an individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and is able to contribute to his or her community. Mental health is determined by a range of socioeconomic, biological and environmental factors.</p>
+    </div>
     <div class="part1">
   
      <p class="paragrah reveal" >

@@ -36,7 +36,7 @@ include("connection.php");
                     <a href="#depression">Depression</a>
                     <a href="#bipolar">Bipolar</a>
                     <a href="#ptsd">PTSD</a>
-                    <a href="#adhd">ADHD</a>
+                    <a href="#adhd">Eating disorder</a>
                     <a href="#autism">Autism</a>
                 </div>
             </div>
@@ -87,12 +87,12 @@ include("connection.php");
             <details class="details">
                 <summary id="sum1">What is Anxiety?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
-    
+                    <p>According to the Anxiety and Depression Association of America, anxiety disorders are the most common type of mental illness.
+                        People with anxiety disorders normally have severe fear or anxiety, which relates to certain objects or situations. Most of these people with such disorders will try to avoid exposure to whatever triggers their anxiety.</p>
+                    <p>It is therefore important to note that everyone experiences anxiety from time to time as it is the way our bodies keep us alert. But it becomes an issue when emotions of worry or fear interfere with our day-to-day life.</p>
+                    <div id = "align"><p><strong>Common types of anxiety disorders include:</strong></p></div>
+                    <p><strong>•	Social phobia or social anxiety disorder: </strong>A disorder that causes people to avoid social or performance situations for fear of being embarrassed or rejected. </p>
+                    <p><strong>•	Generalised anxiety disorder: </strong> An excessive, uncontrollable worry about a range of ordinary issues which are health, work or finance related. </p></p>
                 </div>
             </details>
             <details class="details">
@@ -143,11 +143,13 @@ include("connection.php");
             <details class="details">
                 <summary id="sum1">What is Depression?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <p>Depression is a common mental disorder and one of the main causes of disability worldwide. According to the Global Burden of Disease Study (2017), an estimated 264 million people are affected by depression globally as more women are affected than men.</p> 
+                    <p>Depression is characterised by sadness, loss of interest or pleasure, feelings of guilt and poor concentration. People with depression may also have multiple complaints with no apparent physical cause. It can be long-lasting or recurrent, substantially impairing people’s ability to function and to cope with daily life. At its most severe, depression can lead to suicide. </p>
+                    <p><strong>Copying strategies</strong>
+                    <p>Prevention programmes have been shown to reduce depression, both for children protection and psychological support.</p>
+                    <p>Therapies: also, an effective treatment. Mild to moderate depression can be effectively treated with talking therapies such as cognitive behaviour therapy or psychotherapy.</p>
+                    <p>Antidepressants can be an effective form of treatment for moderate to severe depression but are not the first line of treatment for cases of mild depression. They should not be used for treating depression in children and are not the first line of treatment in adolescents, among whom they should be used with caution.</p> 
+                    <p>Therefore, management of depression should include psychosocial aspects, including identifying stress factors. These include financial problems, difficulties at work or physical or mental abuse, and sources of support, such as family members and friends. The maintenance or reactivation of social networks and social activities is important.</p>
                 </div>
             </details>
             <details class="details">
