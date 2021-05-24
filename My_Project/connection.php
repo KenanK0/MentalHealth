@@ -42,7 +42,7 @@ if(isset($_POST['send'])){
 
         //if the message is not long enough
         if(strlen($msg) > 60){
-            $arrErrors['errMsg'] = 'Message is too long';
+            $arrErrors['errMsg'] = '<p style="color: red; font-weight:bold; font-size:18px; padding:0px "> Message is too long! </p>';
         }
         else{
             $count2 = 0;
@@ -63,8 +63,9 @@ if(isset($_POST['send'])){
 
         // //executing query
         $run_q = mysqli_query($connect, $query);
-
-        $arrSucc['succ'] = '<p style="color: green; "> Message Sent Successfully! </p>';
+        
+        $arrSucc['succ'] = '<p style="color: green; font-weight:bold; font-size:22px; padding:0px "> Message Sent Successfully! </p>';
+        
     }
 }
 else{
