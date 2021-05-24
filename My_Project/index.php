@@ -1,3 +1,8 @@
+<?php
+include("connection.php");
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,14 +21,14 @@
   <div class="header">
     <div class="nav">
       <p class="logo" >
-        <a href="index.html"><img src="logo.png" alt=""></a> 
+        <a href="index.php"><img src="logo.png" alt=""></a> 
        </p>
       <nav class="links" >
-          <a href="index.html">Home</a>
-          <a href="definition.html">Types</a>
+          <a href="index.php">Home</a>
+          <a href="definition.php">Types</a>
          
-         <a href="myths.html">Myths vs Truths</a>
-         <a href="support.html">Support</a>
+         <a href="myths.php">Myths vs Truths</a>
+         <a href="support.php">Support</a>
        
       </nav>
   </div>
@@ -68,11 +73,12 @@
 
     <div class="contact">
       
-      <form action="">
+      <form action="" method="post">
        <span  > Contact us </span><br>
-        <label for=""> <span class="contacta" >Email</span> </label> <br> <input type="email" size=30px  required> <br>
-        <label for=""> <span class="contacta" >Message</span> </label> <br> <textarea name="" id="" cols="35" rows="8" required></textarea> <br>
-        <button>Send Email</button>
+        <label for=""> <span class="contacta" >Email</span> </label> <br> <input type="email" name="email" size=30px  required> <br>
+        <label for=""> <span class="contacta" >Message</span> </label> <br> <textarea name="msg" id="" cols="35" rows="8" required></textarea> <br>
+        <span class="succ"><?php echo $arrSucc['succ']; ?></span>
+        <button name="send">Send Email</button>
       </form>
     
 
@@ -82,7 +88,7 @@
 
   </footer>
 
- 
+
 <script src="app.js"></script>
 </body>
 </html>

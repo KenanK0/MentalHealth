@@ -1,3 +1,8 @@
+<?php
+include("connection.php");
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,14 +22,27 @@
     <div class="cursor2"></div>
     <div class="nav">
         <p class="logo" >
-            <a href="index.html"><img src="logo.png" alt=""></a> 
+            <a href="index.php"><img src="logo.png" alt=""></a> 
            </p>
         <nav class="links" >
-            <a href="index.html">Home</a>
-            <a href="definition.html">Types</a>
+            <a href="index.php">Home</a>
+            <!-- <a href="definition.php">Types</a> -->
+            <div class="drp-dwn">
+                <button class="drp-btn">Types
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="drpdwn-options">
+                    <a href="#Anxiety">Anxiety</a>
+                    <a href="#depression">Depression</a>
+                    <a href="#bipolar">Bipolar</a>
+                    <a href="#ptsd">PTSD</a>
+                    <a href="#adhd">ADHD</a>
+                    <a href="#autism">Autism</a>
+                </div>
+            </div>
            
-           <a href="myths.html">Myths vs Truths</a>
-           <a href="support.html">Support</a>
+           <a href="myths.php">Myths vs Truths</a>
+           <a href="support.php">Support</a>
          
         </nav>
     </div>
@@ -33,7 +51,7 @@
             <h1>There </h1>
             <h1 class="typing"></h1>
         </div>
-        <table>
+        <!-- <table>
             <tr>
                 <th>Types</th>
             </tr>
@@ -56,7 +74,7 @@
                 <td><a href="#autism">Autism</a></td>
             </tr>
             
-        </table>
+        </table> -->
 
     </div>
 
@@ -99,6 +117,16 @@
             </details>
             <details class="details">
                 <summary id="sum4">Signs and Symptoms?</summary><br>
+                <div id="p">
+                    <p>Epcot is a theme park at Walt Disney
+                        World Resort featuring exciting attractions,
+                        international pavilions,
+                        award-winning fireworks and
+                        seasonal special events</p>
+                </div>
+            </details>
+            <details class="details">
+                <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
                     <p>Epcot is a theme park at Walt Disney
                         World Resort featuring exciting attractions,
@@ -152,6 +180,16 @@
                         seasonal special events</p>
                 </div>
             </details>
+            <details class="details">
+                <summary id="sum5">How to Cope</summary><br>
+                <div id="p">
+                    <p>Epcot is a theme park at Walt Disney
+                        World Resort featuring exciting attractions,
+                        international pavilions,
+                        award-winning fireworks and
+                        seasonal special events</p>
+                </div>
+            </details>
         </div>
         <div id="bipolar">
             <br><br><br><br>
@@ -188,6 +226,16 @@
             </details>
             <details class="details">
                 <summary id="sum4">Signs and Symptoms?</summary><br>
+                <div id="p">
+                    <p>Epcot is a theme park at Walt Disney
+                        World Resort featuring exciting attractions,
+                        international pavilions,
+                        award-winning fireworks and
+                        seasonal special events</p>
+                </div>
+            </details>
+            <details class="details">
+                <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
                     <p>Epcot is a theme park at Walt Disney
                         World Resort featuring exciting attractions,
@@ -240,6 +288,16 @@
                         seasonal special events</p>
                 </div>
             </details>
+            <details class="details">
+                <summary id="sum5">How to Cope</summary><br>
+                <div id="p">
+                    <p>Epcot is a theme park at Walt Disney
+                        World Resort featuring exciting attractions,
+                        international pavilions,
+                        award-winning fireworks and
+                        seasonal special events</p>
+                </div>
+            </details>
         </div>
         <div id="adhd">
             <br><br><br><br>
@@ -276,6 +334,16 @@
             </details>
             <details class="details">
                 <summary id="sum4">Signs and Symptoms?</summary><br>
+                <div id="p">
+                    <p>Epcot is a theme park at Walt Disney
+                        World Resort featuring exciting attractions,
+                        international pavilions,
+                        award-winning fireworks and
+                        seasonal special events</p>
+                </div>
+            </details>
+            <details class="details">
+                <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
                     <p>Epcot is a theme park at Walt Disney
                         World Resort featuring exciting attractions,
@@ -328,6 +396,16 @@
                         seasonal special events</p>
                 </div>
             </details>
+            <details class="details">
+                <summary id="sum5">How to Cope</summary><br>
+                <div id="p">
+                    <p>Epcot is a theme park at Walt Disney
+                        World Resort featuring exciting attractions,
+                        international pavilions,
+                        award-winning fireworks and
+                        seasonal special events</p>
+                </div>
+            </details>
         </div>
         
     </div>
@@ -351,12 +429,13 @@
     
         <div class="contact">
           
-          <form action="">
-           <span  > Contact us </span><br>
-            <label for=""> <span class="contacta" >Email</span> </label> <br> <input type="email" size=30px required > <br>
-            <label for=""> <span class="contacta" >Message</span> </label> <br> <textarea name="" id="" cols="35" rows="8" required></textarea> <br>
-            <button>Send Email</button>
-          </form>
+        <form action="" method="post">
+       <span  > Contact us </span><br>
+        <label for=""> <span class="contacta" >Email</span> </label> <br> <input type="email" name="email" size=30px  required> <br>
+        <label for=""> <span class="contacta" >Message</span> </label> <br> <textarea name="msg" id="" cols="35" rows="8" required></textarea> <br>
+        <span class="succ"><?php echo $arrSucc['succ']; ?></span>
+        <button name="send">Send Email</button>
+      </form>
         
     
         </div>

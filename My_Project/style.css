@@ -36,7 +36,7 @@ html{
     align-items: center;
     
 }
-.links a{
+.links a {
    
     display: flex;
     justify-content:space-evenly;
@@ -286,14 +286,14 @@ ul li{
 }
 .typing{
     position: relative;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .typing::after{
     content: "";
     position:absolute;
-    width:1px;
-    right: -5px;
+    width:3px;
+    right: 0px;
     height:100%;
     border-right:2px solid black;
     animation:blink 0.5s infinite ease;
@@ -477,4 +477,67 @@ summary {
     
     color: black;
     opacity: 0.7;
+}
+
+
+.drp-btn {
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 0%;
+    border: none;
+}
+
+.drp-dwn {
+    float: left;
+    overflow: hidden;
+}
+
+.drp-dwn .drp-btn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 1px 10px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.drp-dwn:hover .drp-btn {
+    color: red;
+    background:   #b3ccff;
+    border-bottom: solid red;
+    border-top: solid red;
+    transition: color 0.5s, background 0.5s;
+}
+
+.drpdwn-options {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 157px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    /* z-index: 1; */
+}
+
+.drpdwn-options a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.drpdwn-options a:hover {
+    color: red;
+    background:   #b3ccff;
+    border-bottom: solid red;
+    border-top: solid red;
+    transition: color 0.5s, background 0.5s;
+}
+
+.drp-dwn:hover .drpdwn-options {
+    display: block;
 }
