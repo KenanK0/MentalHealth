@@ -28,9 +28,9 @@ include("connection.php");
             <a href="index.php">Home</a>
             <!-- <a href="definition.php">Types</a> -->
             <div class="drp-dwn">
-                <button class="drp-btn">Types
+                <div class="active"><button class="drp-btn">Types
                     <i class="fa fa-caret-down"></i>
-                </button>
+                </button></div>
                 <div class="drpdwn-options">
                     <a href="#Anxiety">Anxiety</a>
                     <a href="#depression">Depression</a>
@@ -47,6 +47,7 @@ include("connection.php");
         </nav>
     </div>
     <div class="wlk">
+    <img src="Mh.png" alt="">
         <div class="intro">
             <h1>There </h1>
             <h1 class="typing"></h1>
@@ -434,7 +435,7 @@ include("connection.php");
         <label for=""> <span class="contacta" >Email</span> </label> <br> <input type="email" name="email" size=30px  required> <br>
         <label for=""> <span class="contacta" >Message</span> </label> <br> <textarea name="msg" id="" cols="35" rows="8" required></textarea> <br>
         <span class="succ"><?php echo $arrSucc['succ']; ?></span>
-        <button name="send">Send Email</button>
+        <button id="button" name="send">Send Email</button>
       </form>
         
     

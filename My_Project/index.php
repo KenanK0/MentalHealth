@@ -24,7 +24,7 @@ include("connection.php");
         <a href="index.php"><img src="logo.png" alt=""></a> 
        </p>
       <nav class="links" >
-          <a href="index.php">Home</a>
+          <div class="active"><a href="index.php">Home</a></div>
           <a href="definition.php">Types</a>
          
          <a href="myths.php">Myths vs Truths</a>

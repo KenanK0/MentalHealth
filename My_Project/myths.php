@@ -27,7 +27,7 @@ include("connection.php");
           <a href="index.php">Home</a>
           <a href="definition.php">Types</a>
          
-         <a href="myths.php">Myths vs Truths</a>
+         <div class="active"><a href="myths.php">Myths vs Truths</a></div>
          <a href="support.php">Support</a>
        
       </nav>
