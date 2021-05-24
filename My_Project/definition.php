@@ -144,7 +144,7 @@ include("connection.php");
             <details class="details">
                 <summary id="sum1">What is Depression?</summary><br>
                 <div id="p">
-                    <p>Depression is a common mental disorder and one of the main causes of disability worldwide. According to the Global Burden of Disease Study (2017), an estimated 264 million people are affected by depression globally as more women are affected than men.</p> 
+                <p>Depression is a common mental disorder and one of the main causes of disability worldwide. According to the Global Burden of Disease Study (2017), an estimated 264 million people are affected by depression globally as more women are affected than men.</p> 
                     <p>Depression is characterised by sadness, loss of interest or pleasure, feelings of guilt and poor concentration. People with depression may also have multiple complaints with no apparent physical cause. It can be long-lasting or recurrent, substantially impairing people’s ability to function and to cope with daily life. At its most severe, depression can lead to suicide. </p>
                     <p><strong>Copying strategies</strong>
                     <p>Prevention programmes have been shown to reduce depression, both for children protection and psychological support.</p>
