@@ -58,10 +58,11 @@ html{
 .links a:hover{
     
     color: red;
-    background:   #b3ccff;
+    background:   rgb(206, 196, 196);
     border-bottom: solid red;
     border-top: solid red;
     transition: color 0.5s, background 0.5s;
+    
 }
 .video{
     height: 80vh;
@@ -105,9 +106,31 @@ html{
     
 
 }
-
+.mhh{
+    line-height: 1.5;
+    margin-right: 30px;
+    margin-left: 30px;
+   font-size: 20px;
+   
+   font-weight: bold;
+}
+.mhh::first-letter{
+    font-family: Arial, Helvetica, sans-serif;
+    color: maroon;
+    font-size: 6rem;
+    line-height: 0.65;
+    margin: 0.1em 0.1em 0.2em 0;
+}
 button{
     cursor: pointer;
+}
+#nohover:hover{
+    color: none;
+    background:   none;
+    border-bottom:  none;
+    border-top: none;
+    transition: none;
+    
 }
 .btn{
     margin-top: 10px;
@@ -266,7 +289,7 @@ h2{
     background: red;
     color: white;
 }
-button {
+#button {
     background-color: black;
     border: none;
     color: white;
@@ -549,10 +572,17 @@ summary {
     display: block;
 }
 .wlk img{
+    margin-top: 40px;
     margin-left: 550px;
    
 }
+<<<<<<< HEAD
 
 .align{
     text-align: left;
+=======
+iframe{
+    float: right;
+    padding: 0 50px;
+>>>>>>> 53b0c8b7ca94bb39162d2172a6f46f67a6fdcab8
 }

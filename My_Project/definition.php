@@ -28,7 +28,7 @@ include("connection.php");
             <a href="index.php">Home</a>
             <!-- <a href="definition.php">Types</a> -->
             <div class="drp-dwn">
-                <div class="active"><button class="drp-btn">Types
+                <div class="active"><button id="nohover" class="drp-btn links"><a href=""> Types</a>
                     <i class="fa fa-caret-down"></i>
                 </button></div>
                 <div class="drpdwn-options">
@@ -456,7 +456,7 @@ include("connection.php");
     
         <div class="contact">
           
-        <form action="" method="post">
+        <form action="definition.php#form" id="form" method="post">
        <span  > Contact us </span><br>
         <label for=""> <span class="contacta" >Email</span> </label> <br> <input type="email" name="email" size=30px  required> <br>
         <label for=""> <span class="contacta" >Message</span> </label> <br> <textarea name="msg" id="" cols="35" rows="8" required></textarea> <br>

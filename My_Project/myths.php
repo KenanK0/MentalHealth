@@ -97,12 +97,12 @@ include("connection.php");
 
     <div class="contact">
       
-      <form action="" method="post">
+      <form action="myths.php#form" id="form" method="post">
         <span  > Contact us </span><br>
-         <label for=""> <span class="contacta" >Email</span> </label> <br> <input type="email" name="email" size=30px  required> <br>
-         <label for=""> <span class="contacta" >Message</span> </label> <br> <textarea name="msg" id="" cols="35" rows="8" required></textarea> <br>
+         <label for=""> <span class="contacta" >Email</span> </label> <br> <input type="email" name="email" size=30px required  > <br>
+         <label for=""> <span class="contacta" >Message</span> </label> <br> <textarea name="msg" id="" cols="35" rows="8" required ></textarea> <br>
          <span class="succ"><?php echo $arrSucc['succ']; ?></span>
-         <button name="send">Send Email</button>
+         <button id="button" name="send">Send Email</button>
        </form>
     
 
