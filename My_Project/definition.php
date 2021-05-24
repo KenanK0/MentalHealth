@@ -129,11 +129,20 @@ include("connection.php");
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                    </br><strong><div class= "align">Take a moment to focus on your breathing:</strong></div>
+                    <li>Controlling your breathing will slow down your heart rate and in turn help you calm down.</li>
+                    <li>In some cases, breathing into a paper bag can help you control your breathing when having trouble calming down.</li>
+                    </br><strong><div class= "align">Go for a walk, stretch or exercise:</strong></div>
+                    <li>This refocuses your attention on your body movements, distracting you from your negative thoughts and - according to Ryan Collins - during physical activity endorphins are released which are a type of neurotransmitter that helps relieve pain as well as stress. Other important brain chemicals are released during physical activity too which are crucial to the regulation of your emotions.</li>
+                    </br><strong><div class= "align">Redirect your focus:</strong></div>
+                    <li>Listen to music, spend time focusing on an enjoyable hobby, read a book or watch something relaxing, pray or meditate to distract you from your anxiety and in turn calm yourself. </li>
+                    </br><strong><div class= "align">Monitor/maintain your physical and mental health:</strong></div>
+                    <li>Get enough sleep, engage in physical activities regularly, take breaks or a time off from things that could induce your anxiety symptoms every now and then, eat healthy meals and spend time with people who make you feel good/better and care about you.</li>
+                    </br><strong><div class= "align">Limit your exposure to your triggers:</strong></div>
+                    <li>Triggers can range from substances like alcohol or caffeine to long-term issues like a relationship, a person or a situation - at work, home or elsewhere. </li>
+                    <li>Ensure that once you’ve identified your triggers, you limit your exposure to them if possible. If not possible, use coping techniques that can help you endure the situation currently (the other techniques mentioned).</li>
+                </ul>
                 </div>
             </details>
         </div>
@@ -186,11 +195,20 @@ include("connection.php");
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                    </br><strong><div class= "align">Take a moment to focus on your breathing:</strong></div>
+                    <li>Controlling your breathing will slow down your heart rate and in turn help you calm down.</li>
+                    <li>In some cases, breathing into a paper bag can help you control your breathing when having trouble calming down.</li>
+                    </br><strong><div class= "align">Go for a walk, stretch or exercise:</strong></div>
+                    <li>This refocuses your attention on your body movements, distracting you from your negative thoughts and - according to Ryan Collins - during physical activity endorphins are released which are a type of neurotransmitter that helps relieve pain as well as stress. Other important brain chemicals are released during physical activity too which are crucial to the regulation of your emotions.</li>
+                    </br><strong><div class= "align">Redirect your focus:</strong></div>
+                    <li>Listen to music, spend time focusing on an enjoyable hobby, read a book or watch something relaxing, pray or meditate to distract you from your anxiety and in turn calm yourself. </li>
+                    </br><strong><div class= "align">Monitor/maintain your physical and mental health:</strong></div>
+                    <li>Get enough sleep, engage in physical activities regularly, take breaks or a time off from things that could induce your anxiety symptoms every now and then, eat healthy meals and spend time with people who make you feel good/better and care about you.</li>
+                    </br><strong><div class= "align">Limit your exposure to your triggers:</strong></div>
+                    <li>Triggers can range from substances like alcohol or caffeine to long-term issues like a relationship, a person or a situation - at work, home or elsewhere. </li>
+                    <li>Ensure that once you’ve identified your triggers, you limit your exposure to them if possible. If not possible, use coping techniques that can help you endure the situation currently (the other techniques mentioned).</li>
+                </ul>
                 </div>
             </details>
         </div>
@@ -200,11 +218,9 @@ include("connection.php");
             <details class="details">
                 <summary id="sum1">What is Bipolar?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <p>This type of mental disorder affects about 45 million worldwide according to the Global Burden of Disease Study (2017). It typically consists of both manic and depressive episodes separated by periods of normal mood. Manic episodes involve elevated or irritable mood, over-activity, rapid speech, inflated self-esteem and a decreased need for sleep. People who have manic attacks but do not experience depressive episodes are also classified as having bipolar disorder.</p> 
+                <p><strong>Management of bipolar depression</strong></p>
+                <p>There are effective treatments available for acute phases of bipolar disorder and the prevention of relapse. Also include medicines that stabilise mood. Psychosocial support is also an important component of treatment.</p>
                 </div>
             </details>
             <details class="details">
@@ -294,11 +310,19 @@ include("connection.php");
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                <strong><br><div id = "align"> Go for a walk, stretch or exercise:</div></strong>
+                <li>This refocuses your attention on your body movements which helps you cope with PTSD symptoms and reduce your stress levels and - according to Ryan Collins - during physical activity endorphins are released which are a type of neurotransmitter that helps relieve pain as well as stress.</li>
+                <strong></br><div id = "align">Go for art therapy:</div></strong>
+                <li>Art therapy, being one of the types of PTSD therapy, prevents the internalization of your emotions and teaches you ways to cope with unsettling memories and experiences through the use of art.</li>
+                <strong></br><div id = "align">Adopt a pet for PTSD:</div></strong>
+                <li>Getting a pet that’s been trained to identify as well as interrupt the arising of PTSD symptoms is an effective approach to assisting you when it comes to coping with the symptoms. This approach is a short-term way of coping.</li>
+                <li>According to the National Institutes of Health, spending at least a week with a dog that’s specially trained decreased PTSD symptoms by 82%.</li>
+                <strong><div id = "align"> </br>Take a moment to focus on your breathing:</div></strong>
+                <li>Controlling your breathing will slow down your heart rate and redirect your focus on you breathing which helps you avoid being consumed by intrusive thoughts.</li>
+                <strong></br><div id = "align">Redirect your focus:</div></strong>
+                <li>Listen to music, spend time focusing on an enjoyable hobby, read a book or watch something relaxing, pray or meditate to distract you from your anxiety and in turn calm yourself.</li>
+            </ul>
                 </div>
             </details>
         </div>
