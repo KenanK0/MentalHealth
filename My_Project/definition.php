@@ -328,29 +328,49 @@ include("connection.php");
         </div>
         <div id="adhd">
             <br><br><br><br>
-            <h3>ADHD</h3>
+            <h3>Eating Disorder</h3>
             <details class="details">
-                <summary id="sum1">What is ADHD?</summary><br>
+                <summary id="sum1">What is Eating disorder?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <p>Eating disorder is a behavioural condition characterised by serve and persistent disturbance in eating behaviours and associated distressing thoughts and emotions. Eating disorders can have detrimental effects on the physical, psychological and social function.</p>
+                    <p><strong>The types of eating disorders are:</strong></p>
+                    <ul>
+                    <li>
+                        <span>Anorexia nervosa</span>
+                    </li>
+                    <li>
+                        <span>Bulimia nervosa</span>
+                    </li>
+                    <li>
+                        <span>Binge eating disorder</span>
+                    </li>
+                    <li>
+                        <span>Avoidant restrictive food intake disorder</span>
+                    </li>
+                    </ul>                  
+                    <p>Eating disorders affect up to 5% of the population, most often develop in adolescence and young adulthood. Several, especially anorexia nervosa and bulimia nervosa are more common in women, but they can all occur at any age and affect any gender.</p> <p>It is characterised by the fear of being overweight (despite the fact that actual weight is in the average or below average range), which can lead to a range of behaviours to reduce weight including severe dieting, self-induced vomiting and excessive exercise.</p>
                 </div>
             </details>
             <details class="details">
-                <summary id="sum2">What causes ADHD?</summary><br>
+                <summary id="sum2">What causes Eating disorders?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <strong>Causes of eating disorders.</strong>
+                    <p>Eating disorders are typically influenced by a facet of factors. Though the exact cause of eating orders is unknown. It is generally believed that a combination of biological, psychological, and/or environmental abnormalities contribute to the development of these illnesses.<p>
+                    <br><strong>Biological factors include:</strong>
+                    <ul>
+                        <li>Irregular hormone functions</li>
+                        <li>Genetics</li>
+                        <li>Nutritional deficiencies</li>   
+                    </ul>      
+                    <br><strong>Psychological factors include:</strong>
+                    <ul>
+                        <li>Negative body image</li>    
+                        <li>Poor self-esteem</li>
+                    </ul>
                 </div>
             </details>
             <details class="details">
-                <summary id="sum3">How can you tell if someone you know might have ADHD?</summary><br>
+                <summary id="sum3">How can you tell if someone you know might have Eating disorder?</summary><br>
                 <div id="p">
                     <p>Epcot is a theme park at Walt Disney
                         World Resort featuring exciting attractions,
@@ -437,6 +457,13 @@ include("connection.php");
         
     </div>
     
+    </div>
+    <div>
+        <h3>Bibliography</h3>
+        <ol>
+            <li><p>GBD, <cite> 2017 Disease and Injury Incidence and Prevalence Collaborators. (2018). Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017. The Lancet. DOI:https://doi.org/10.1016/S0140-6736(18)32279-7</cite></p></li>
+            <li><p>World Health Organisation, <cite>2018. Mental health: strengthening our response. https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response. Accessed 13 May 2021. </cite></p></li>
+            </ol>
     </div>
     <footer>
         <div class="more">About <br>

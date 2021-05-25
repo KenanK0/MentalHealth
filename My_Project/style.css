@@ -586,3 +586,9 @@ iframe{
     padding: 0 50px;
 >>>>>>> 53b0c8b7ca94bb39162d2172a6f46f67a6fdcab8
 }
+span{
+    position: relative;
+    left: -2px;
+}
+
+    
