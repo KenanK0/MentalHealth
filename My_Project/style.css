@@ -48,20 +48,24 @@ html{
     
 }
 .active a{ 
-    color: red;
-    background: #b3ccff;
-    padding: 19px 40px;
-    border-bottom: solid red;
+    
+   background: rgb(151, 209, 206);
+   padding: 10px;
+   border: 2px solid black;
+   color: white;
+   border-radius: 15%;
     
 }
 
 .links a:hover{
     
     color: red;
-    background:   rgb(206, 196, 196);
+    background: whitesmoke;
     border-bottom: solid red;
     border-top: solid red;
     transition: color 0.5s, background 0.5s;
+    
+    
     
 }
 .video{
