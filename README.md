@@ -11,7 +11,8 @@ This repository contains all the assets we used to build the Mental Health websi
 * [HTML](https://www.w3.org/)
 * [CSS](https://www.w3.org/)
 * [Javascript](https://www.javascript.com/)
-* [MySql](https://www.php.net/)
+* [MySql](https://www.mysql.com/)
+* [PHP](https://www.php.net/)
 
 ## Contributors
 - Kenan Kasongo 
