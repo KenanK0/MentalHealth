@@ -51,7 +51,7 @@ include("connection.php");
   
      <p class="paragrah reveal" >
        
-         Did you know? <br>
+          <br>
           One in 10 people suffer from a mental illness, 
          That makes 10% of the World's population. <br>
           It could be a friend, a family member, or it could be .. You! <br> <br><br><br><br>
