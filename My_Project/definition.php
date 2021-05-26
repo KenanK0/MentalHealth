@@ -338,16 +338,16 @@ include("connection.php");
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
                 <ul>
-                <strong><br><div id = "align"> Go for a walk, stretch or exercise:</div></strong>
+                <strong><br><div class = "align"> Go for a walk, stretch or exercise:</div></strong>
                 <li>This refocuses your attention on your body movements which helps you cope with PTSD symptoms and reduce your stress levels and - according to Ryan Collins - during physical activity endorphins are released which are a type of neurotransmitter that helps relieve pain as well as stress.</li>
-                <strong><br><div id = "align">Go for art therapy:</div></strong>
+                <strong><br><div class= "align">Go for art therapy:</div></strong>
                 <li>Art therapy, being one of the types of PTSD therapy, prevents the internalization of your emotions and teaches you ways to cope with unsettling memories and experiences through the use of art.</li>
-                <strong><br><div id = "align">Adopt a pet for PTSD:</div></strong>
+                <strong><br><div class = "align">Adopt a pet for PTSD:</div></strong>
                 <li>Getting a pet that’s been trained to identify as well as interrupt the arising of PTSD symptoms is an effective approach to assisting you when it comes to coping with the symptoms. This approach is a short-term way of coping.</li>
                 <li>According to the National Institutes of Health, spending at least a week with a dog that’s specially trained decreased PTSD symptoms by 82%.</li>
-                <strong><div id = "align"> </br>Take a moment to focus on your breathing:</div></strong>
+                <strong><div class = "align"> </br>Take a moment to focus on your breathing:</div></strong>
                 <li>Controlling your breathing will slow down your heart rate and redirect your focus on you breathing which helps you avoid being consumed by intrusive thoughts.</li>
-                <strong><br><div id = "align">Redirect your focus:</div></strong>
+                <strong><br><div class = "align">Redirect your focus:</div></strong>
                 <li>Listen to music, spend time focusing on an enjoyable hobby, read a book or watch something relaxing, pray or meditate to distract you from your anxiety and in turn calm yourself.</li>
             </ul>
                 </div>
@@ -415,11 +415,19 @@ include("connection.php");
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <div class = "alignment">
+                    <ul>
+                    <p><strong><h4><div class = "align">SELF COPING STRATEGIES</div></h4></strong></p>	
+                    <br><div class = "align"><strong> Distract yourself:</strong></div>
+                    <li>Engage in some form of physical activity – walk, stretch or exercise - when obsessive thoughts arise. This refocuses your attention on your body movements relieving stress as well as tension. It can help increase your ability to resist temptations of giving in to obsessive urges. Another way to distract yourself when obsessive thoughts arise is by spending time focusing on an enjoyable hobby.</li>
+                    <br><strong><div class = "align">Practice mindfulness:</div></strong>
+                    <li>Meditation, prayer and yoga are effective ways to help yourself increase awareness regarding your triggers and help you develop self-control.</li> 
+                    <br><strong><div class = "align">Limit your exposure to your triggers:</div></strong>
+                    <li>Identify your triggers then limit your exposure to them if possible. A way to limit your exposure to a trigger would be to rid your kitchen of any foods that tempt you to obsessively eat, for example. If not possible, use coping techniques that can help you endure the situation currently (the other techniques mentioned). </li>
+                    <br><strong><div class = "align">Get enough sleep:</div></strong>
+                    <li>Irregular eating patterns can be induced by lack of sleep. Ensuring that you get enough sleep can help decrease your triggers and regulate your eating patterns.</li>
+                    </ul>
+                    </div>
                 </div>
             </details>
         </div>
