@@ -592,3 +592,12 @@ span{
     text-align: left;
     margin-left: 1em;
 }
+a:link{
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+a:hover{
+    color:turquoise;
+    font-weight: bold;
+}

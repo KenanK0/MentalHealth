@@ -88,12 +88,20 @@ include("connection.php");
             <details class="details">
                 <summary id="sum1">What is Anxiety?</summary><br>
                 <div id="p">
-                    <p>According to the Anxiety and Depression Association of America, anxiety disorders are the most common type of mental illness.
-                        People with anxiety disorders normally have severe fear or anxiety, which relates to certain objects or situations. Most of these people with such disorders will try to avoid exposure to whatever triggers their anxiety.</p>
-                    <p>It is therefore important to note that everyone experiences anxiety from time to time as it is the way our bodies keep us alert. But it becomes an issue when emotions of worry or fear interfere with our day-to-day life.</p>
-                    <div id = "align"><p><strong>Common types of anxiety disorders include:</strong></p></div>
-                    <p><strong>•	Social phobia or social anxiety disorder: </strong>A disorder that causes people to avoid social or performance situations for fear of being embarrassed or rejected. </p>
-                    <p><strong>•	Generalised anxiety disorder: </strong> An excessive, uncontrollable worry about a range of ordinary issues which are health, work or finance related. </p></p>
+                    <div class = "alignment">
+                        <p>According to the Anxiety and Depression Association of America, anxiety disorders are the most common type of mental illness.People with anxiety disorders normally have severe fear or anxiety, which relates to certain objects or situations. Most of these people with such disorders will try to avoid exposure to whatever triggers their anxiety.</p>
+                        <p>It is therefore important to note that everyone experiences anxiety from time to time as it is the way our bodies keep us alert. But it becomes an issue when emotions of worry or fear interfere with our day-to-day life.</p>
+                    </div>
+                    <div id = "align">
+                        <p><strong>Common types of anxiety disorders include:</strong></p>
+                    </div>
+                    <div class = "alignment">
+                        <ul>
+                        <br><li><strong>Social phobia or social anxiety disorder: </strong>A disorder that causes people to avoid social or performance situations for fear of being embarrassed or rejected. </li>
+                        <br><li><strong>Generalised anxiety disorder: </strong> An excessive, uncontrollable worry about a range of ordinary issues which are health, work or finance related. </li>
+                        <br><li><strong> Obsessive compulsive disorder (OCD): </strong> these are unwanted thoughts and impulses (obsessions) which cause repetitive, routine behaviours (compulsions) as a way of copying with anxiety. </li>
+                        <br> <li> <strong> Agoraphobia: </strong> Avoiding certain situations due to fear of having a panic attack. Agoraphobia is often associated with panic disorder. <a href = "https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders"> Find out more about the types of anxiety</a> </li>
+                    </div>
                 </div>
             </details>
             <details class="details">
@@ -129,7 +137,8 @@ include("connection.php");
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
-                <ul>
+                <br><h4><bold> SELF COPING STRATEGIES FOR ANXIETY</bold></h4>
+                <ul> <div class ="alignment">
                     <br><strong><div class= "align">Take a moment to focus on your breathing:</strong></div>
                     <li>Controlling your breathing will slow down your heart rate and in turn help you calm down.</li>
                     <li>In some cases, breathing into a paper bag can help you control your breathing when having trouble calming down.</li>
@@ -142,6 +151,7 @@ include("connection.php");
                     <br><strong><div class= "align">Limit your exposure to your triggers:</strong></div>
                     <li>Triggers can range from substances like alcohol or caffeine to long-term issues like a relationship, a person or a situation - at work, home or elsewhere. </li>
                     <li>Ensure that once you’ve identified your triggers, you limit your exposure to them if possible. If not possible, use coping techniques that can help you endure the situation currently (the other techniques mentioned).</li>
+                </div>
                 </ul>
                 </div>
             </details>
@@ -196,6 +206,7 @@ include("connection.php");
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
+                <br><strong><h4> SELF COPYING STRATEGIES FOR DEPRESSION</h4></strong>
                 <ul>
                     <br><strong><div class= "align">Take a moment to focus on your breathing:</strong></div>
                     <li>Controlling your breathing will slow down your heart rate and in turn help you calm down.</li>
