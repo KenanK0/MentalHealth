@@ -164,8 +164,12 @@ include("connection.php");
                 <summary id="sum1">What is Depression?</summary><br>
                 <div id="p">
                 <div class= "alignment">
-                <p>Depression is a common mental disorder and one of the main causes of disability worldwide. According to the Global Burden of Disease Study (2017), an estimated 264 million people are affected by depression globally as more women are affected than men.</p> 
+                    <p>Depression is a common mental disorder and one of the main causes of disability worldwide. According to the Global Burden of Disease Study (2017), an estimated 264 million people are affected by depression globally as more women are affected than men.</p> 
                     <p>Depression is characterised by sadness, loss of interest or pleasure, feelings of guilt and poor concentration. People with depression may also have multiple complaints with no apparent physical cause. It can be long-lasting or recurrent, substantially impairing people’s ability to function and to cope with daily life. At its most severe, depression can lead to suicide. </p>
+                    <p><strong><div class = "align">The following are the types of depression:</div></strong></p>
+                    <br> A depressive episode can be categorised as mild, moderate or severe depending on the number and severity of symptoms. Moreover, there is a key distinction between depression in people who have or don't have a history of manic epsiodes but both types can be chronic. 
+                    <p> <strong> Recurrent depressive disorder:</strong> this type of disorder involves repeated depressive episodes whereby one can experience depressed mood, loss of interest and enjoyment, and reduced energy leading to diminished activity for at least two weeks.<p>
+                    <p><strong> Bipolar affective disorder:</strong> this type of depression typically consists of both manic and depressive episodes separated by periods of normal mood. Manic episodes involve elevated or irritable mood, over-activity, pressure of speech, inflated self-esteem and a decreased need for sleep</p>
                     <p><strong><div class = "align">Copying strategies</div></strong>
                     <p>Prevention programmes have been shown to reduce depression, both for children protection and psychological support.</p>
                     <p>Therapies: also, an effective treatment. Mild to moderate depression can be effectively treated with talking therapies such as cognitive behaviour therapy or psychotherapy.</p>
@@ -207,7 +211,8 @@ include("connection.php");
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
                 <br><strong><h4> SELF COPYING STRATEGIES FOR DEPRESSION</h4></strong>
-                <ul>
+                <div class = "alignment">
+                    <ul>
                     <br><strong><div class= "align">Take a moment to focus on your breathing:</strong></div>
                     <li>Controlling your breathing will slow down your heart rate and in turn help you calm down.</li>
                     <li>In some cases, breathing into a paper bag can help you control your breathing when having trouble calming down.</li>
@@ -220,7 +225,8 @@ include("connection.php");
                     <br><strong><div class= "align">Limit your exposure to your triggers:</strong></div>
                     <li>Triggers can range from substances like alcohol or caffeine to long-term issues like a relationship, a person or a situation - at work, home or elsewhere. </li>
                     <li>Ensure that once you’ve identified your triggers, you limit your exposure to them if possible. If not possible, use coping techniques that can help you endure the situation currently (the other techniques mentioned).</li>
-                </ul>
+                    </ul>
+                </div>
                 </div>
             </details>
         </div>
@@ -230,9 +236,18 @@ include("connection.php");
             <details class="details">
                 <summary id="sum1">What is Bipolar?</summary><br>
                 <div id="p">
-                <p>This type of mental disorder affects about 45 million worldwide according to the Global Burden of Disease Study (2017). It typically consists of both manic and depressive episodes separated by periods of normal mood. Manic episodes involve elevated or irritable mood, over-activity, rapid speech, inflated self-esteem and a decreased need for sleep. People who have manic attacks but do not experience depressive episodes are also classified as having bipolar disorder.</p> 
+                <div class = "alignment">
+                    <p>This type of mental disorder affects about 45 million worldwide according to the Global Burden of Disease Study (2017). It typically consists of both manic and depressive episodes separated by periods of normal mood. Manic episodes involve elevated or irritable mood, over-activity, rapid speech, inflated self-esteem and a decreased need for sleep. People who have manic attacks but do not experience depressive episodes are also classified as having bipolar disorder.</p> 
+                    <p> Biploar disorder is a category that includes three different diagnoses which are:<strong> bipolar 1, biploar 11 and cyclothymic disorder</strong>.</p> 
+                    <br><strong> Bipolar 1 Disorder: </strong> is a type of disorder diagnosed when a person experiences a manic episode.During a manic episode, people with bipolar I disorder experience an extreme increase in energy and may feel on top of the world or uncomfortably irritable in mood. Some people with bipolar I disorder also experience depressive or hypomanic episodes, and most people with bipolar I disorder also have periods of neutral mood. </p>
+                    <br> <strong> Bipolar 11 Disorder: </strong> requires someone to have at least one major depressive episode and at least one hypomanic episode. People return to their usual functioning between episodes. People with bipolar II disorder often first seek treatment as a result of their first depressive episode, since hypomanic episodes often feel pleasurable and can even increase performance at work or school.
+                    <p> People with bipolar II disorder frequently have other mental illnesses such as an anxiety disorder or substance use disorder, the latter of which can exacerbate symptoms of depression or hypomania. </p> 
+                    <br> <strong> Cyclothymic disorder: </strong> is a disorder which is a milder form of bipolar involving many "mood swings", with hypomania and depressive symptoms that occur frequently. People with cyclothymia experience emotional ups and downs but with less severe symptoms than bipolar1 or 11 disorder.
+                </div>
                 <p><strong>Management of bipolar depression</strong></p>
-                <p>There are effective treatments available for acute phases of bipolar disorder and the prevention of relapse. Also include medicines that stabilise mood. Psychosocial support is also an important component of treatment.</p>
+                <div class = "alignment">
+                    <p>There are effective treatments available for acute phases of bipolar disorder and the prevention of relapse. Also include medicines that stabilise mood. Psychosocial support is also an important component of treatment.</p>
+                </div>
                 </div>
             </details>
             <details class="details">
