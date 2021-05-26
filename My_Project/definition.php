@@ -37,7 +37,7 @@ include("connection.php");
                     <a href="#bipolar">Bipolar</a>
                     <a href="#ptsd">PTSD</a>
                     <a href="#adhd">Eating disorder</a>
-                    <a href="#autism">Autism</a>
+                    <a href="#autism">Substance Abuse Disorder</a>
                 </div>
             </div>
            
@@ -69,10 +69,10 @@ include("connection.php");
                 <td><a href="#ptsd">PTSD</a></td>
             </tr>
             <tr>
-                <td><a href="#adhd">ADHD</a></td>
+                <td><a href="#adhd">Eating disorder</a></td>
             </tr>
             <tr>
-                <td><a href="#autism">Autism</a></td>
+                <td><a href="#autism">Substance Abuse Disorder</a></td>
             </tr>
             
         </table> -->
@@ -130,16 +130,16 @@ include("connection.php");
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
                 <ul>
-                    </br><strong><div class= "align">Take a moment to focus on your breathing:</strong></div>
+                    <br><strong><div class= "align">Take a moment to focus on your breathing:</strong></div>
                     <li>Controlling your breathing will slow down your heart rate and in turn help you calm down.</li>
                     <li>In some cases, breathing into a paper bag can help you control your breathing when having trouble calming down.</li>
-                    </br><strong><div class= "align">Go for a walk, stretch or exercise:</strong></div>
+                    <br><strong><div class= "align">Go for a walk, stretch or exercise:</strong></div>
                     <li>This refocuses your attention on your body movements, distracting you from your negative thoughts and - according to Ryan Collins - during physical activity endorphins are released which are a type of neurotransmitter that helps relieve pain as well as stress. Other important brain chemicals are released during physical activity too which are crucial to the regulation of your emotions.</li>
-                    </br><strong><div class= "align">Redirect your focus:</strong></div>
+                    <br><strong><div class= "align">Redirect your focus:</strong></div>
                     <li>Listen to music, spend time focusing on an enjoyable hobby, read a book or watch something relaxing, pray or meditate to distract you from your anxiety and in turn calm yourself. </li>
-                    </br><strong><div class= "align">Monitor/maintain your physical and mental health:</strong></div>
+                    <br><strong><div class= "align">Monitor/maintain your physical and mental health:</strong></div>
                     <li>Get enough sleep, engage in physical activities regularly, take breaks or a time off from things that could induce your anxiety symptoms every now and then, eat healthy meals and spend time with people who make you feel good/better and care about you.</li>
-                    </br><strong><div class= "align">Limit your exposure to your triggers:</strong></div>
+                    <br><strong><div class= "align">Limit your exposure to your triggers:</strong></div>
                     <li>Triggers can range from substances like alcohol or caffeine to long-term issues like a relationship, a person or a situation - at work, home or elsewhere. </li>
                     <li>Ensure that once you’ve identified your triggers, you limit your exposure to them if possible. If not possible, use coping techniques that can help you endure the situation currently (the other techniques mentioned).</li>
                 </ul>
@@ -153,9 +153,10 @@ include("connection.php");
             <details class="details">
                 <summary id="sum1">What is Depression?</summary><br>
                 <div id="p">
+                <div class= "alignment">
                 <p>Depression is a common mental disorder and one of the main causes of disability worldwide. According to the Global Burden of Disease Study (2017), an estimated 264 million people are affected by depression globally as more women are affected than men.</p> 
                     <p>Depression is characterised by sadness, loss of interest or pleasure, feelings of guilt and poor concentration. People with depression may also have multiple complaints with no apparent physical cause. It can be long-lasting or recurrent, substantially impairing people’s ability to function and to cope with daily life. At its most severe, depression can lead to suicide. </p>
-                    <p><strong>Copying strategies</strong>
+                    <p><strong><div class = "align">Copying strategies</div></strong>
                     <p>Prevention programmes have been shown to reduce depression, both for children protection and psychological support.</p>
                     <p>Therapies: also, an effective treatment. Mild to moderate depression can be effectively treated with talking therapies such as cognitive behaviour therapy or psychotherapy.</p>
                     <p>Antidepressants can be an effective form of treatment for moderate to severe depression but are not the first line of treatment for cases of mild depression. They should not be used for treating depression in children and are not the first line of treatment in adolescents, among whom they should be used with caution.</p> 
@@ -196,16 +197,16 @@ include("connection.php");
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
                 <ul>
-                    </br><strong><div class= "align">Take a moment to focus on your breathing:</strong></div>
+                    <br><strong><div class= "align">Take a moment to focus on your breathing:</strong></div>
                     <li>Controlling your breathing will slow down your heart rate and in turn help you calm down.</li>
                     <li>In some cases, breathing into a paper bag can help you control your breathing when having trouble calming down.</li>
-                    </br><strong><div class= "align">Go for a walk, stretch or exercise:</strong></div>
+                    <br><strong><div class= "align">Go for a walk, stretch or exercise:</strong></div>
                     <li>This refocuses your attention on your body movements, distracting you from your negative thoughts and - according to Ryan Collins - during physical activity endorphins are released which are a type of neurotransmitter that helps relieve pain as well as stress. Other important brain chemicals are released during physical activity too which are crucial to the regulation of your emotions.</li>
-                    </br><strong><div class= "align">Redirect your focus:</strong></div>
+                    <br><strong><div class= "align">Redirect your focus:</strong></div>
                     <li>Listen to music, spend time focusing on an enjoyable hobby, read a book or watch something relaxing, pray or meditate to distract you from your anxiety and in turn calm yourself. </li>
                     </br><strong><div class= "align">Monitor/maintain your physical and mental health:</strong></div>
                     <li>Get enough sleep, engage in physical activities regularly, take breaks or a time off from things that could induce your anxiety symptoms every now and then, eat healthy meals and spend time with people who make you feel good/better and care about you.</li>
-                    </br><strong><div class= "align">Limit your exposure to your triggers:</strong></div>
+                    <br><strong><div class= "align">Limit your exposure to your triggers:</strong></div>
                     <li>Triggers can range from substances like alcohol or caffeine to long-term issues like a relationship, a person or a situation - at work, home or elsewhere. </li>
                     <li>Ensure that once you’ve identified your triggers, you limit your exposure to them if possible. If not possible, use coping techniques that can help you endure the situation currently (the other techniques mentioned).</li>
                 </ul>
@@ -313,14 +314,14 @@ include("connection.php");
                 <ul>
                 <strong><br><div id = "align"> Go for a walk, stretch or exercise:</div></strong>
                 <li>This refocuses your attention on your body movements which helps you cope with PTSD symptoms and reduce your stress levels and - according to Ryan Collins - during physical activity endorphins are released which are a type of neurotransmitter that helps relieve pain as well as stress.</li>
-                <strong></br><div id = "align">Go for art therapy:</div></strong>
+                <strong><br><div id = "align">Go for art therapy:</div></strong>
                 <li>Art therapy, being one of the types of PTSD therapy, prevents the internalization of your emotions and teaches you ways to cope with unsettling memories and experiences through the use of art.</li>
-                <strong></br><div id = "align">Adopt a pet for PTSD:</div></strong>
+                <strong><br><div id = "align">Adopt a pet for PTSD:</div></strong>
                 <li>Getting a pet that’s been trained to identify as well as interrupt the arising of PTSD symptoms is an effective approach to assisting you when it comes to coping with the symptoms. This approach is a short-term way of coping.</li>
                 <li>According to the National Institutes of Health, spending at least a week with a dog that’s specially trained decreased PTSD symptoms by 82%.</li>
                 <strong><div id = "align"> </br>Take a moment to focus on your breathing:</div></strong>
                 <li>Controlling your breathing will slow down your heart rate and redirect your focus on you breathing which helps you avoid being consumed by intrusive thoughts.</li>
-                <strong></br><div id = "align">Redirect your focus:</div></strong>
+                <strong><br><div id = "align">Redirect your focus:</div></strong>
                 <li>Listen to music, spend time focusing on an enjoyable hobby, read a book or watch something relaxing, pray or meditate to distract you from your anxiety and in turn calm yourself.</li>
             </ul>
                 </div>
@@ -332,41 +333,37 @@ include("connection.php");
             <details class="details">
                 <summary id="sum1">What is Eating disorder?</summary><br>
                 <div id="p">
+                <div class= "alignment">
                     <p>Eating disorder is a behavioural condition characterised by serve and persistent disturbance in eating behaviours and associated distressing thoughts and emotions. Eating disorders can have detrimental effects on the physical, psychological and social function.</p>
+                    <p>Eating disorders affect up to 5% of the population, most often develop in adolescence and young adulthood. Several, especially anorexia nervosa and bulimia nervosa are more common in women, but they can all occur at any age and affect any gender.</p> <p>It is characterised by the fear of being overweight (despite the fact that actual weight is in the average or below average range), which can lead to a range of behaviours to reduce weight including severe dieting, self-induced vomiting and excessive exercise.</p>
                     <p><strong>The types of eating disorders are:</strong></p>
                     <ul>
-                    <li>
-                        <span>Anorexia nervosa</span>
-                    </li>
-                    <li>
-                        <span>Bulimia nervosa</span>
-                    </li>
-                    <li>
-                        <span>Binge eating disorder</span>
-                    </li>
-                    <li>
-                        <span>Avoidant restrictive food intake disorder</span>
-                    </li>
-                    </ul>                  
-                    <p>Eating disorders affect up to 5% of the population, most often develop in adolescence and young adulthood. Several, especially anorexia nervosa and bulimia nervosa are more common in women, but they can all occur at any age and affect any gender.</p> <p>It is characterised by the fear of being overweight (despite the fact that actual weight is in the average or below average range), which can lead to a range of behaviours to reduce weight including severe dieting, self-induced vomiting and excessive exercise.</p>
+                        <li>Anorexia nervosa</li>
+                        <li>Bulimia nervosa</li>
+                        <li>Binge eating disorder</li>
+                        <li>Avoidant restrictive food intake disorder</li>
+                    </ul>  
+                </div>                  
                 </div>
             </details>
             <details class="details">
                 <summary id="sum2">What causes Eating disorders?</summary><br>
                 <div id="p">
-                    <strong>Causes of eating disorders.</strong>
+                <div class= "alignment">
+                    <strong><p>Causes of eating disorders.</p></strong>
                     <p>Eating disorders are typically influenced by a facet of factors. Though the exact cause of eating orders is unknown. It is generally believed that a combination of biological, psychological, and/or environmental abnormalities contribute to the development of these illnesses.<p>
-                    <br><strong>Biological factors include:</strong>
+                    <p><strong>Biological factors include:</strong></p>
                     <ul>
                         <li>Irregular hormone functions</li>
                         <li>Genetics</li>
                         <li>Nutritional deficiencies</li>   
                     </ul>      
-                    <br><strong>Psychological factors include:</strong>
+                    <p><strong>Psychological factors include:</strong></p>
                     <ul>
                         <li>Negative body image</li>    
                         <li>Poor self-esteem</li>
                     </ul>
+                </div>
                 </div>
             </details>
             <details class="details">
@@ -402,9 +399,9 @@ include("connection.php");
         </div>
         <div id="autism">
             <br><br><br><br>
-            <h3>Autism</h3>
+            <h3>Substance Abuse Disorder</h3>
             <details class="details">
-                <summary id="sum1">What is Autism?</summary><br>
+                <summary id="sum1">What is Substance Abuse Disorder?</summary><br>
                 <div id="p">
                     <p>Epcot is a theme park at Walt Disney
                         World Resort featuring exciting attractions,
@@ -414,7 +411,7 @@ include("connection.php");
                 </div>
             </details>
             <details class="details">
-                <summary id="sum2">What causes Autism?</summary><br>
+                <summary id="sum2">What causes Substance Abuse Disorder?</summary><br>
                 <div id="p">
                     <p>Epcot is a theme park at Walt Disney
                         World Resort featuring exciting attractions,
@@ -424,7 +421,7 @@ include("connection.php");
                 </div>
             </details>
             <details class="details">
-                <summary id="sum3">How can you tell if someone you know might have Autism?</summary><br>
+                <summary id="sum3">How can you tell if someone you know might have substance abuse disorder?</summary><br>
                 <div id="p">
                     <p>Epcot is a theme park at Walt Disney
                         World Resort featuring exciting attractions,

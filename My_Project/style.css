@@ -583,11 +583,12 @@ summary {
 }
 
 .align{
-    text-align: left;
+    text-align: center;
 }
 span{
-    position: relative;
-    left: -2px;
+    left: -2px;   
 }
-
-    
+.alignment{
+    text-align: left;
+    margin-left: 1em;
+}
