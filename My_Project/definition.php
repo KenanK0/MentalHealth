@@ -36,7 +36,7 @@ include("connection.php");
                     <a href="#depression">Depression</a>
                     <a href="#bipolar">Bipolar</a>
                     <a href="#ptsd">PTSD</a>
-                    <a href="#adhd">Eating disorder</a>
+                    <a href="#adhd">Eating Disorder</a>
                     <a href="#autism">Substance Abuse Disorder</a>
                 </div>
             </div>
@@ -257,11 +257,45 @@ include("connection.php");
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                    <br><strong><div class= "align">Limit your exposure to your triggers:</strong></div><br>
+                    <u>Common triggers can include</u>:
+                    <li style= 'text-align: left;'>Arguments with loved ones.</li>
+                    <li style= 'text-align: left;'>Challenges at school/work.</li>
+                    <li style= 'text-align: left;'>Lack of sleep.</li>
+                    <li style= 'text-align: left;'>Stress.</li>
+                    <li style= 'text-align: left;'>Financial issues.</li><br>
+                    <li>Ensure that once you’ve identified your triggers, you limit your exposure to them if possible. If not possible, use coping techniques that can help you endure the situation currently (the other techniques mentioned).</li>
+                    <br><strong><div class= "align">Know early warning signs:</strong></div>
+                    <li>Ensure you’re able to identify warning signs of an approaching manic or depressive episode. What can help is making a list of early signs that accompanied your past mood episodes. Thereafter, with your warning signs and your triggers in mind, keep track of how you’re feeling so as to be able to identify whether you’re experiencing the signs and why.</li>
+                    <u>Common warning signs of depression</u>:
+                        <li style= 'text-align: left;'>You’ve started isolating yourself.</li>
+                        <li style= 'text-align: left;'>People irritate and bother you.</li>
+                        <li style= 'text-align: left;'>You experience headaches frequently.</li>
+                        <li style= 'text-align: left;'>You’ve lost interest in others.</li>
+                        <li style= 'text-align: left;'>You experience cravings for sweet foods.</li>
+                        <li style= 'text-align: left;'>You’re sleepy and nap during the day often.</li>
+                    <u>Common warning signs of mania or hypomania</u>:
+                        <li style= 'text-align: left;'>You find it hard to focus.</li>
+                        <li style= 'text-align: left;'>You’re hungry throughout the day.</li>
+                        <li style= 'text-align: left;'>You have increased energy that you need to release by moving.</li>
+                        <li style= 'text-align: left;'>You feel easily irritable.</li>
+                        <li style= 'text-align: left;'>You’re talking at a faster pace than usual.</li>
+                    <br><strong><div class= "align">Take better care of yourself:</strong></div><br>
+                    <u>Self-care that commonly helps people with bipolar disorder reduce their symptoms</u>:
+                        <li style= 'text-align: left;'>Get enough sleep (no less than 8 hours).</li>
+                        <li style= 'text-align: left;'>Join a support group and attend.</li>
+                        <li style= 'text-align: left;'>Do something fun and creative (journaling, dancing, spending time with loved ones).</li>
+                        <li style= 'text-align: left;'>Make time to take a break and relax.</li>
+                        <li style= 'text-align: left;'>Keep your body active (walk/stretch/exercise).</li>
+                        <li style= 'text-align: left;'>Reach out to trustworthy loved ones when you need help.</li>
+                        <li style= 'text-align: left;'>Reduce your intake of sweet foods, caffeine and alcohol.</li>
+                    </br><strong><div class= "align">Connect/network with your support system:</strong></div>
+                    <li>Avoid isolating yourself from others. Engaging regularly with loved ones you’re comfortable with is important so that you have trustworthy people to turn to when you need help and support.</li>
+                    <br><strong><div class= "align">Minimize your stress levels:</strong></div>
+                    <li>Practice deep breathing and meditation or yoga as the relaxation these techniques provide can lift your mood.</li>
+                    <li>Make leisure sessions a priority because feeling good and being playful/creative is necessary for your emotional and mental well-being.</li>
+                </ul>
                 </div>
             </details>
         </div>
@@ -389,11 +423,16 @@ include("connection.php");
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                    <br><strong><div class= "align">Distract yourself:</strong></div>
+                    <li>Engage in some form of physical activity – walk, stretch or exercise - when obsessive thoughts arise. This refocuses your attention on your body movements relieving stress as well as tension. It can help increase your ability to resist temptations of giving in to obsessive urges. Another way to distract yourself when obsessive thoughts arise is by spending time focusing on an enjoyable hobby.</li>
+                    <br><strong><div class= "align">Practice mindfulness:</strong></div>
+                    <li>Meditation, prayer and yoga are effective ways to help yourself increase awareness regarding your triggers and help you develop self-control.</li>
+                    <br><strong><div class= "align">Limit your exposure to your triggers:</strong></div>
+                    <li>Identify your triggers then limit your exposure to them if possible. A way to limit your exposure to a trigger would be to rid your kitchen of any foods that tempt you to obsessively eat, for example. If not possible, use coping techniques that can help you endure the situation currently (the other techniques mentioned).</li>
+                    </br><strong><div class= "align">Get enough sleep:</strong></div>
+                    <li>Irregular eating patterns can be induced by lack of sleep. Ensuring that you get enough sleep can help decrease your triggers and regulate your eating patterns.</li>
+                </ul>
                 </div>
             </details>
         </div>
@@ -441,13 +480,20 @@ include("connection.php");
                 </div>
             </details>
             <details class="details">
-                <summary id="sum5">How to Cope</summary><br>
+                <summary id="sum5">How to Cope/Recover</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                    <br><strong><div class= "align">Practice mindfulness:</strong></div>
+                    <li>Make use of mindfulness and meditation techniques which can assist you with working through challenging thoughts and emotions by helping you refocus your attention and accept your experiences and challenges without judgement or negativity.</li>
+                    <br><strong><div class= "align">Distract yourself:</strong></div>
+                    <li>Engage in some form of physical activity – walk, stretch, dance, read, watch TV or exercise - when triggering hardships arise. This refocuses your attention on your body movements and anything other than your challenging emotions and thoughts. In this way, after a while of practicing this way of coping, you can replace the habit of resorting to substances with a healthier and productive habit. This takes time and discipline – so be patient with yourself while also holding yourself accountable.</li>
+                    <br><strong><div class= "align">Journal:</strong></div>
+                    <li>This helps you avoid internalizing your feelings and thoughts by releasing them on paper. Challenging emotions and thoughts are meant to be released but only in productive and healthy ways – journaling being one of those ways. It can also help you process your emotions and thoughts.</li>
+                    </br><strong><div class= "align">Build a sober support system/network:</strong></div>
+                    <li>Understanding that you are not alone (and do not have to be alone) is important. Open yourself up to new relationships that will support and encourage your recovery and surround yourself with people you can rely on and trust with your challenges as well as reach out to in times of need.</li>
+                    <br><strong><div class= "align">Become a part of a support group and attend meetings:</strong></div>
+                    <li>These meetings can provide you with guidance to reduce/manage or stop substance use. Not only that; during these meetings you can meet people recovering who can be a part of your support system/network.</li>
+                </ul>
                 </div>
             </details>
         </div>
@@ -456,7 +502,7 @@ include("connection.php");
     
     </div>
     <div>
-        <h3>Bibliography</h3>
+        <h3>Sources</h3>
         <ol>
             <li><p>GBD, <cite> 2017 Disease and Injury Incidence and Prevalence Collaborators. (2018). Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017. The Lancet. DOI:https://doi.org/10.1016/S0140-6736(18)32279-7</cite></p></li>
             <li><p>World Health Organisation, <cite>2018. Mental health: strengthening our response. https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response. Accessed 13 May 2021. </cite></p></li>
