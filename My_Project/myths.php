@@ -16,8 +16,10 @@ include("connection.php");
     <title>Mental Health</title>
 </head>
 <body>
+ <!-- Cursor -->
   <div class="cursor"></div>
   <div class="cursor2"></div>
+  <!--Navigation bar -->
   <div class="header">
     <div class="nav">
       <p class="logo" >
@@ -32,53 +34,53 @@ include("connection.php");
        
       </nav>
   </div>
+   <!--Background images -->
   <div class="mythsbg">
       <img id="icon" src="mythsvsf.png" alt="">
   </div>
+   <!--Content -->
   <div class="aa">
     <div class="myths">
         <div class="mythscontent">
           <p>
-              <b>The stigma associated with mental illness is now called "mental insanity." Just like racism or sexism,</b> <br> it is a form of oppression and discrimination. In our society, there are still many prejudices and misinformation surrounding mental illness. <br>
+              <b>The stigma associated with mental illness is now called "mental insanity."  or sanism Just like racism or sexism,</b> <br> it is a form of oppression and discrimination. In our society, there are still many prejudices and misinformation surrounding mental illness. <br>
   
               It is up to us to educate others and keep records. <br>
               
-              Here are some common Mythss people make and what you need to know <br>
-  
+               The world has to battle with this issue of myths and truths. Most of the people are exposed to the myths of this problem more than the truths, things like the following:
+               <h1><u>Myths</u></h1>
+                Children don’t/can’t get depression <br>
+                People with mental health problems can’t handle stress <br>
+                Mentally challenged people are violent <br>
+                People with mental disorders must not be in the restaurants or shop <br>
+                Psychologists are useless <br>
+                Support groups are for the weak <br>
+                Therapists are expensive <br>
+                Mental illness is incurable <br>
+                Only specific people develop mental health disorders <br>
+                Mental unhealthy people can’t help themselves
+
+
+                <h1><u>Truths</u></h1>
+                Talking to a stranger helps <br>
+                Support groups can be more helpful than one on one therapy <br>
+                Mental health illness is curable <br>
+                Mental health disorders can be had by anyone <br>
+                Some people with mental health problems can help themselves <br>
+                Children can have depression as well <br>
+                Some people who are mentally unhealthy are dangerous <br>
+                People with mental disorders should be around people <br>
+
+
               
-        </p>
-        <ul>
-            <li><b><u>Myths</u></b>: Mental illness means you are "crazy." <br>
-              <b><u>Fact</u></b>: It's plain and simple, having a mental illness does not mean you are “crazy.” It means you are vulnerable. It means you have an illness with challenging symptoms — the same as someone with an illness like diabetes. While mental illness might alter your thinking, destabilize your moods or skew your perception of reality, that doesn’t mean you are “crazy.” It means you are human and are susceptible to sickness and illness, the same as any other person.  </li>
-              <li><b><u>Myths : </u></b> <br>
-                  <b><u>Fact : </u></b>
-              
-              </li>
-              <li><b><u>Myths : </u></b> <br>
-                  <b><u>Fact : </u></b>
-              
-              </li>
-              <li><b><u>Myths : </u></b> <br>
-                  <b><u>Fact : </u></b>
-              
-              </li>
-              <li><b><u>Myths : </u></b> <br>
-                  <b><u>Fact : </u></b>
-              
-              </li>
-              <li><b><u>Myths : </u></b> <br>
-                  <b><u>Fact : </u></b>
-              
-              </li>
-              
-        </ul>
-  
+             
+            </p>
         </div>
         
     </div>
   </div>
  
-  
+   <!-- Footer -->
   <footer>
     <div class="more">About <br>
       <div class="morecontent">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus maxime harum alias sed culpa aliquid voluptas corrupti et quibusdam mollitia delectus perspiciatis, exercitationem laboriosam sit rem vero nihil commodi numquam? <br>
@@ -94,7 +96,7 @@ include("connection.php");
       </div>
     </div>
     
-
+     <!--contact us form -->
     <div class="contact">
       
       <form action="myths.php#form" id="form" method="post">
