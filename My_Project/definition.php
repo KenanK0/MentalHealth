@@ -107,11 +107,10 @@ include("connection.php");
             <details class="details">
                 <summary id="sum2">What causes Anxiety Disorder?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <div class = "alignment">
+                    <p> The exact causes of anxiety disorders are unknown. Life experiences such as traumatic events appear to trigger anxiety disorders in people who are already prone to anxiety according to the Mayo Foundation for Medical Education and Research. Inherited traits also can be a factor.In addition, researches believe that a combination of genetic and environmental factors may play a significant role. Brain chemistry is also being studied as a possible cause.</p>
+                    <p> Anxiety disorders often occur alongside other mental health conditions, such as depression and substance abuse. Many people try to ease the symptoms of anxiety by using alcohol and other drugs. However, the relief that these substances provide is temporary.<p>
+                    </div>
                 </div>
             </details>
             <details class="details">
@@ -180,11 +179,29 @@ include("connection.php");
             <details class="details">
                 <summary id="sum2">What causes Depression?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <div class = "alignment">
+                        <p>There are several possible causes of depression and range from biological to circumstantial</p>
+                    </div>
+                    <br><strong>The common causes include:</strong>
+                    <div class ="alignment">
+                        <ul>
+                            <br><li><strong>Early childhood trauma:</strong>Some of the events affect the way one's body reacts to fear and stressful situations.</li>
+                            <br><li><strong>Brain structure:</strong> There's a greater risk for depression if the frontal lobe of one's brain is less active. However, scientists do not know if this happens before or after the onset of depressive symptoms.</li>
+                            <br><li><strong> Medical conditions:</strong> Certain conditions may put a person at higher risk, such as chronic illness, insomnia, chronic pain, or attention-deficit hyperactivity disorder (ADHD).</li>
+                            <br><li><strong>Drug use:</strong> A history of drug or alcohol misuse can affect one's risk. About 21% of people who have a substance use problem also experience depression.</li>
+                        </ul>
+                    </div>
+                    <div class = "alignment">
+                        <p>In addition to these causes, other risk factors for depression include:</p>
+                    </div>
+                        <div class = "alignment">
+                            <ul>
+                            <li> low self-esteem or being self-critical</li>
+                            <li> personal history of mental illness</li>
+                            <li>certain medications</li>
+                            <li>stressful events, such as the loss of a loved one</li>
+                            <ul>
+                        </div>
                 </div>
             </details>
             <details class="details">
@@ -210,7 +227,7 @@ include("connection.php");
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
-                <br><strong><h4> SELF COPYING STRATEGIES FOR DEPRESSION</h4></strong>
+                <br><strong><h4> SELF COPING STRATEGIES FOR DEPRESSION</h4></strong>
                 <div class = "alignment">
                     <ul>
                     <br><strong><div class= "align">Take a moment to focus on your breathing:</strong></div>
@@ -253,11 +270,14 @@ include("connection.php");
             <details class="details">
                 <summary id="sum2">What causes Bipolar?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <div class = "alignment">
+                        <p>Bipolar disorder appears to result from a combination of factors. These include:</p>
+                        <ul>
+                            <li><strong>Genetic factors:</strong> Bipolar disorder is more common in those who have a family member with the condition. A number of genetic features may be involved.</li>
+                            <li><strong>Environmental factors:</strong> Life events, such as abuse, mental stress or any other traumatic event may trigger an initial episode in a susceptible person.</li>
+                            <li><strong>Biological traits:</strong> Research suggests that imbalances in neurotransmitters or hormones that affect the brain may play a role.</li>
+                        </ul>
+                    </div>
                 </div>
             </details>
             <details class="details">
@@ -437,21 +457,19 @@ include("connection.php");
             <details class="details">
                 <summary id="sum1">What is Substance Abuse Disorder?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <div class ="alignment">
+                        <p>Substance use disorder is referred as the persistent use of alcohol including drugs despite substantial harm and adverse consequences. Substance use disorders are characterised by an array of mental or emotional, physical, and behavioral problems such as an inability to reduce or stop consuming the substance(s) despite repeated attempts; chronic guilt; driving while intoxicated and physiological withdraw symptoms. </p>
+                    </div>
                 </div>
             </details>
             <details class="details">
                 <summary id="sum2">What causes Substance Abuse Disorder?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <div class = "alignment">
+                    <p>The exact cause of substance disorder is not known but however, emotional distress, anxiety, depression, a person's genes and environmental stress can all be the factors </p>
+                    <p><strong> A person's genetics</strong>: Once a person starts a drug, the development into addiction may be influenced by inherited (genetic) traits, which may delay or speed up the disorder progression.</p>
+                    <p><strong> Environment factor:</strong> This factor includes one's family beliefs and attitudes and exposure to a peer group that encourages drug use seem to play a significant role in initial drug use.</p>
+                    </div>
                 </div>
             </details>
             <details class="details">
