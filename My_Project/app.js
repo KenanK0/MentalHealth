@@ -1,20 +1,11 @@
-var button=document.querySelector('.btn');
-var text=document.querySelector('.text')
-
-var ratio=0.3
-var options = {
-    root: null,
-    rootMargin: '0px',
-    threshold: ratio
-}
-
+/* Adding on mouse move effect */
 var cursor=document.querySelector('.cursor');
 var cursor2=document.querySelector('.cursor2');
 
 document.addEventListener('mousemove',function(e){
     cursor.style.cssText=cursor2.style.cssText="left: "+ e.clientX + "px; top: "+ e.clientY + "px;";
 })
-//TypeWriter
+/* TypeWriter */
 const texts=['are many types of Mental Illnesses :                                '];
 let count=0;
 let index=0;

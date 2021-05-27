@@ -16,8 +16,10 @@ include("connection.php");
     <title>Mental Health</title>
 </head>
 <body>
+  <!--cursor-->
   <div class="cursor"></div>
   <div class="cursor2"></div>
+  <!--Navigation bar -->
   <div class="header">
     <div class="nav">
       <p class="logo" >
@@ -32,13 +34,14 @@ include("connection.php");
        
       </nav>
   </div>
+  <!-- Video -->
   <div class="video">
     <video height="700" autoplay muted loop >
         <source src="video.mp4" >  
     </video>
   </div>
 
-  
+<!-- Content -->
   <div class="main1">
     <p class="mh" >MENTAL HEALTH</p>
     <div id = "mental_para">
@@ -49,7 +52,7 @@ include("connection.php");
     </div>
     <div class="part1">
   
-     <p class="paragrah reveal" >
+     <p class="paragrah" >
        
           <br>
           One in 10 people suffer from a mental illness, 
@@ -61,6 +64,7 @@ include("connection.php");
       </p>
     </div>
   </div>
+  <!-- Footer -->
   <footer>
     <div class="more">About <br>
       <div class="morecontent">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus maxime harum alias sed culpa aliquid voluptas corrupti et quibusdam mollitia delectus perspiciatis, exercitationem laboriosam sit rem vero nihil commodi numquam? <br>
@@ -74,7 +78,7 @@ include("connection.php");
       </div>
     </div>
     
-
+ <!-- Contact us form -->
     <div class="contact">
       
       <form id="form" action="index.php#form" method="post">

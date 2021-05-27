@@ -18,8 +18,10 @@ include("connection.php");
     <title>Types</title>
 </head>
 <body>
+ <!-- cursor -->
     <div class="cursor"></div>
     <div class="cursor2"></div>
+ <!-- Navigation bar -->
     <div class="nav">
         <p class="logo" >
             <a href="index.php"><img src="logo.png" alt=""></a> 
@@ -46,44 +48,21 @@ include("connection.php");
          
         </nav>
     </div>
+     <!-- Background images and Typewriter -->
     <div class="wlk">
     <img src="Mh.png" alt="">
         <div class="intro">
             <h1>There </h1>
             <h1 class="typing"></h1>
         </div>
-        <!-- <table>
-            <tr>
-                <th>Types</th>
-            </tr>
-            <tr>
-                <td><a href="#Anxiety">Anxiety</a></td>
-            </tr>
-            <tr>
-                <td><a href="#depression">Depression</a></td>
-            </tr>
-            <tr>
-                <td><a href="#bipolar">Bipolar</a></td>
-            </tr>
-            <tr>
-                <td><a href="#ptsd">PTSD</a></td>
-            </tr>
-            <tr>
-                <td><a href="#adhd">Eating disorder</a></td>
-            </tr>
-            <tr>
-                <td><a href="#autism">Substance Abuse Disorder</a></td>
-            </tr>
-            
-        </table> -->
+    
 
     </div>
-
+     <!-- Types content -->
     <div class="part2">
         
         <div id="Anxiety">
             <br><br><br><br>
-            <!-- <img src="anxiety1.png" alt=""> -->
             <h3>Anxiety</h3>
             <details class="details">
                 <summary id="sum1">What is Anxiety?</summary><br>
@@ -514,6 +493,7 @@ include("connection.php");
             <li><p>World Health Organisation, <cite>2018. Mental health: strengthening our response. https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response. Accessed 13 May 2021. </cite></p></li>
             </ol>
     </div>
+     <!-- Footer -->
     <footer>
         <div class="more">About <br>
           <div class="morecontent">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus maxime harum alias sed culpa aliquid voluptas corrupti et quibusdam mollitia delectus perspiciatis, exercitationem laboriosam sit rem vero nihil commodi numquam? <br>
@@ -529,7 +509,7 @@ include("connection.php");
           </div>
         </div>
         
-    
+     <!-- Contact us form -->
         <div class="contact">
           
         <form action="definition.php#form" id="form" method="post">

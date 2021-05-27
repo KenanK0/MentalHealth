@@ -16,8 +16,10 @@ include("connection.php");
     <title>Support</title>
 </head>
 <body>
+    <!--cursor -->
     <div class="cursor"></div>
     <div class="cursor2"></div>
+     <!-- Navigation bar -->
     <div class="nav">
         <p class="logo" >
          <a href="index.php"><img src="logo.png" alt=""></a> 
@@ -31,7 +33,7 @@ include("connection.php");
          
         </nav>
     </div>
-    
+     <!-- Content -->
   <div class="supportbg1">
     <h1>Need more support?</h1>
     <p>You can call any of this hotline(For free!):  </p>
@@ -50,21 +52,7 @@ include("connection.php");
     <p>Or you can discuss with our chat bot!</p>
   </div>
   <div class="supportbg2"></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     <!-- Footer -->
     <footer>
         <div class="more">About <br>
           <div class="morecontent">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus maxime harum alias sed culpa aliquid voluptas corrupti et quibusdam mollitia delectus perspiciatis, exercitationem laboriosam sit rem vero nihil commodi numquam? <br>
@@ -80,7 +68,7 @@ include("connection.php");
           </div>
         </div>
         
-    
+         <!--contact us-->
         <div class="contact">
           
         <form action="support.php#form" id="form" method="post">
