@@ -148,11 +148,6 @@ include("connection.php");
                     <br> A depressive episode can be categorised as mild, moderate or severe depending on the number and severity of symptoms. Moreover, there is a key distinction between depression in people who have or don't have a history of manic epsiodes but both types can be chronic. 
                     <p> <strong> Recurrent depressive disorder:</strong> this type of disorder involves repeated depressive episodes whereby one can experience depressed mood, loss of interest and enjoyment, and reduced energy leading to diminished activity for at least two weeks.<p>
                     <p><strong> Bipolar affective disorder:</strong> this type of depression typically consists of both manic and depressive episodes separated by periods of normal mood. Manic episodes involve elevated or irritable mood, over-activity, pressure of speech, inflated self-esteem and a decreased need for sleep</p>
-                    <p><strong><div class = "align">Copying strategies</div></strong>
-                    <p>Prevention programmes have been shown to reduce depression, both for children protection and psychological support.</p>
-                    <p>Therapies: also, an effective treatment. Mild to moderate depression can be effectively treated with talking therapies such as cognitive behaviour therapy or psychotherapy.</p>
-                    <p>Antidepressants can be an effective form of treatment for moderate to severe depression but are not the first line of treatment for cases of mild depression. They should not be used for treating depression in children and are not the first line of treatment in adolescents, among whom they should be used with caution.</p> 
-                    <p>Therefore, management of depression should include psychosocial aspects, including identifying stress factors. These include financial problems, difficulties at work or physical or mental abuse, and sources of support, such as family members and friends. The maintenance or reactivation of social networks and social activities is important.</p>
                 </div>
             </details>
             <details class="details">
@@ -222,6 +217,13 @@ include("connection.php");
                     <li>Triggers can range from substances like alcohol or caffeine to long-term issues like a relationship, a person or a situation - at work, home or elsewhere. </li>
                     <li>Ensure that once you’ve identified your triggers, you limit your exposure to them if possible. If not possible, use coping techniques that can help you endure the situation currently (the other techniques mentioned).</li>
                     </ul>
+                </div>
+                <p><strong><div class = "align">Other Copying strategies</div></strong>
+                <div class = "alignment">
+                    <p>Prevention programmes have been shown to reduce depression, both for children protection and psychological support.</p>
+                    <p>Therapies: also, an effective treatment. Mild to moderate depression can be effectively treated with talking therapies such as cognitive behaviour therapy or psychotherapy.</p>
+                    <p>Antidepressants can be an effective form of treatment for moderate to severe depression but are not the first line of treatment for cases of mild depression. They should not be used for treating depression in children and are not the first line of treatment in adolescents, among whom they should be used with caution.</p> 
+                    <p>Therefore, management of depression should include psychosocial aspects, including identifying stress factors. These include financial problems, difficulties at work or physical or mental abuse, and sources of support, such as family members and friends. The maintenance or reactivation of social networks and social activities is important.</p>
                 </div>
                 </div>
             </details>
@@ -296,11 +298,15 @@ include("connection.php");
             <details class="details">
                 <summary id="sum1">What is PTSD?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <div class = "alignment">
+                    <p>Post traumatic stress disorder (PTSD) is a a debilitating condition which follows a traumatic event. Also called shell shock, battle fatigue, accident neurosis and post-rape syndrome. PTSD is often misunderstood and misdiagnosed. However, this condition has very specific symptoms that are part of a definite psychiatric disorder.</p>
+                    <p><strong><div class = "align">Types of PTSD</div></strong><p>
+                    <p> Post traumatic stress disorder is broken down into subtypes depending on a person's symptoms, also known as condition "specifiers" to make it easier to diagnose and treat.</p>
+                    <p><strong> Dissociative PTSD:</strong> is when one detaches herself or himself from the trauma. The person feels separated from the event.</p>
+                    <p><strong> Comorbid PTSD: </strong> involves symptoms of PTSD along with another mental health disorder like depression, panic disorder, or a substance abuse problem. People with this type get the best results from treating both PTSD and the other mental health issue.</p>
+                    <p><strong>  Uncomplicated PTSD: </strong> is when one has PTSD symptoms like re-experiencing the traumatic event and avoiding people and places related to the trauma, but they dont have any other mental health issues such as depression. People with the uncomplicated subtype often respond well to treatment.</p>
+                    <p><strong> Acute stress disorder: </strong> it is not PTSD but involves a cluster of symptoms like anxiety and avoidance that develop within a month after a traumatic event. Many people wth ASD go on to develop PTSD. </p>
+                </div>  
                 </div>
             </details>
             <details class="details">
@@ -316,11 +322,7 @@ include("connection.php");
             <details class="details">
                 <summary id="sum3">How can you tell if someone you know might have PTSD?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <p>A person has PTSD when the symptoms of the disorder cause distress and interference in daily life.  Often, people with PTSD are plagued by persistent frightening memories of the traumatic event called flashbacks; and they constantly emotionally numbed by the ordeal. What makes the flashbacks especially bad is that they bring back the emotions associated with the traumatic event</p>
                 </div>
             </details>
             <details class="details">
@@ -336,19 +338,28 @@ include("connection.php");
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
-                <ul>
-                <strong><br><div class = "align"> Go for a walk, stretch or exercise:</div></strong>
-                <li>This refocuses your attention on your body movements which helps you cope with PTSD symptoms and reduce your stress levels and - according to Ryan Collins - during physical activity endorphins are released which are a type of neurotransmitter that helps relieve pain as well as stress.</li>
-                <strong><br><div class= "align">Go for art therapy:</div></strong>
-                <li>Art therapy, being one of the types of PTSD therapy, prevents the internalization of your emotions and teaches you ways to cope with unsettling memories and experiences through the use of art.</li>
-                <strong><br><div class = "align">Adopt a pet for PTSD:</div></strong>
-                <li>Getting a pet that’s been trained to identify as well as interrupt the arising of PTSD symptoms is an effective approach to assisting you when it comes to coping with the symptoms. This approach is a short-term way of coping.</li>
-                <li>According to the National Institutes of Health, spending at least a week with a dog that’s specially trained decreased PTSD symptoms by 82%.</li>
-                <strong><div class = "align"> </br>Take a moment to focus on your breathing:</div></strong>
-                <li>Controlling your breathing will slow down your heart rate and redirect your focus on you breathing which helps you avoid being consumed by intrusive thoughts.</li>
-                <strong><br><div class = "align">Redirect your focus:</div></strong>
-                <li>Listen to music, spend time focusing on an enjoyable hobby, read a book or watch something relaxing, pray or meditate to distract you from your anxiety and in turn calm yourself.</li>
-            </ul>
+                    <ul>
+                        <strong><br><div class = "align"> Go for a walk, stretch or exercise:</div></strong>
+                        <li>This refocuses your attention on your body movements which helps you cope with PTSD symptoms and reduce your stress levels and - according to Ryan Collins - during physical activity endorphins are released which are a type of neurotransmitter that helps relieve pain as well as stress.</li>
+                        <strong><br><div class= "align">Go for art therapy:</div></strong>
+                        <li>Art therapy, being one of the types of PTSD therapy, prevents the internalization of your emotions and teaches you ways to cope with unsettling memories and experiences through the use of art.</li>
+                        <strong><br><div class = "align">Adopt a pet for PTSD:</div></strong>
+                        <li>Getting a pet that’s been trained to identify as well as interrupt the arising of PTSD symptoms is an effective approach to assisting you when it comes to coping with the symptoms. This approach is a short-term way of coping.</li>
+                        <li>According to the National Institutes of Health, spending at least a week with a dog that’s specially trained decreased PTSD symptoms by 82%.</li>
+                        <strong><div class = "align"> </br>Take a moment to focus on your breathing:</div></strong>
+                        <li>Controlling your breathing will slow down your heart rate and redirect your focus on you breathing which helps you avoid being consumed by intrusive thoughts.</li>
+                        <strong><br><div class = "align">Redirect your focus:</div></strong>
+                        <li>Listen to music, spend time focusing on an enjoyable hobby, read a book or watch something relaxing, pray or meditate to distract you from your anxiety and in turn calm yourself.</li>
+                    </ul>
+                    <br><strong>The six steps towards recovery:</strong>
+                    <div  class = "alignment">
+                        <p><strong>STEP 1</strong>: Understand the symptoms-they are part of the disease and will eventually pass.</p>
+                        <p><strong>STEP 2</strong>: Feelings of guilt are normal-they represent a way of taking back control. Help from a counselor may be beneficial.</p>
+                        <p><strong>STEP 3</strong>: Talk about your experience in detail-your thoughts, feelings and fears. Tell people you are close to that you want to talk about it.</p>
+                        <p><strong>STEP 4</strong>: Take control of your life as soon as possible. It is not advisable to go for sleep therapy, on leave or on holiday. It is best to face your fears and feelings rather them to avoid them.</p><p> Exercise (mild aerobic work-outs may help feelings of depression). Do what you normally do- if you find this difficult, get the support of family and friends. It is also important not to push yourself to the point of failure; rather take things slowly and gradually.<p>
+                        <p><strong>STEP 5</strong>: Understand that you are going through a process-you will get better, but it may take some time.</p>
+                        <p><strong> STEP 6</strong>: Help those around you to cope with both their trauma and your trauma. Your family and friends may also be struggling with what you have been through. There are excellent clinics across the country-try and get help. You may only need a few sessions with a therapist or counselor.</p>
+                    </div>
                 </div>
             </details>
         </div>
@@ -361,12 +372,14 @@ include("connection.php");
                 <div class= "alignment">
                     <p>Eating disorder is a behavioural condition characterised by serve and persistent disturbance in eating behaviours and associated distressing thoughts and emotions. Eating disorders can have detrimental effects on the physical, psychological and social function.</p>
                     <p>Eating disorders affect up to 5% of the population, most often develop in adolescence and young adulthood. Several, especially anorexia nervosa and bulimia nervosa are more common in women, but they can all occur at any age and affect any gender.</p> <p>It is characterised by the fear of being overweight (despite the fact that actual weight is in the average or below average range), which can lead to a range of behaviours to reduce weight including severe dieting, self-induced vomiting and excessive exercise.</p>
+                <div class = "align">
                     <p><strong>The types of eating disorders are:</strong></p>
+                </div>
                     <ul>
-                        <li>Anorexia nervosa</li>
-                        <li>Bulimia nervosa</li>
-                        <li>Binge eating disorder</li>
-                        <li>Avoidant restrictive food intake disorder</li>
+                        <li><strong>Anorexia nervosa:</strong> is characterized by self-starvation and weight loss resulting in low weight for height and age. Anorexia has the highest mortality of any psychiatric diagnosis other than opioid use disorder and can be a very serious condition. Body mass index or BMI, a measure of weight for height, is typically under 18.5 in an adult individual with anorexia nervosa. Dieting behavior in anorexia nervosa is driven by an intense fear of gaining weight or becoming fat. Although some individuals with anorexia will say they want and are trying to gain weight, their behavior is not consistent with this intent.</li>
+                        <li><strong>Bulimia nervosa:</strong> is an eating disorder, commonly referred to simply as bulimia. It’s a serious condition that can be life-threatening. It’s generally characterized by binge eating followed by purging. Purging can occur through forced vomiting, excessive exercise, or by taking laxatives or diuretics. People with bulimia purge, or display purge behaviors, and follow a binge-and-purge cycle.<p> Purge behaviors also include other strict methods to maintain weight like fasting, exercise, or extreme dieting. People with bulimia often have an unrealistic body image.Research indicates that roughly 2.5 percent of women and 1.5 percent of men will experience bulimia at some point during their life. It is most common in women, and especially common during the teenage and early adult years.</p></li>
+                        <li><strong>Binge eating disorder: </strong> people with binge eating disorder have episodes of binge eating in which they consume large quantities of food in a brief period, experience a sense of loss of control over their eating and are distressed by the binge behavior. Unlike people with bulimia nervosa however, they do not regularly use compensatory behaviors to get rid of the food by inducing vomiting, fasting, exercising or laxative misuse. The binge eating is chronic and can lead to serious health complications, including obesity, diabetes, hypertension and cardiovascular diseases.</li>
+                        <li><strong>Avoidant restrictive food intake disorder: </strong> Avoidant/restrictive food intake disorder (ARFID) is a recently defined eating disorder that involves a disturbance in eating resulting in persistent failure to meet nutritional needs and extreme picky eating. </li>
                     </ul>  
                 </div>                  
                 </div>

@@ -41,13 +41,9 @@ include("connection.php");
       <li>National Suicide & Crisis Lines (0800) 12 13 14</li>
       <li>Alcohol & Substance Abuse (0800) 20 50 26</li>
       <li>Domestic & Sexual Violence (083) 765 1235</li>
-      <li>Eating Disorders 27 (0) 21 761 0740</li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Eating Disorders +27 (0) 21 761 0740</li>
+      <li> The SA Depression and Anxiety Group (011) 783 1474/6</li>
+      <li>Post-Traumatic Stress Disorder Clinic (021)938-9229</li>
     </ul>
     <p>Or you can discuss with our chat bot!</p>
   </div>
