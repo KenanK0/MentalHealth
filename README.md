@@ -1,8 +1,8 @@
 # Mental Health
-DSW Project
+**DSW Project**
 This repository contains all the assets we used to build the Mental Health website and the documentation 
 
-**Present an effective and innovative way to tackle and solve the social issue that is mental health (or the lack thereof) and illness by means of a website.**
+**Our website Present an effective and innovative way to tackle and solve the social issue that is mental health (or the lack thereof) and illness by means of a website.**
 
 **Version 1.0.0**
 ### Built With
