@@ -105,11 +105,35 @@ include("connection.php");
             <details class="details">
                 <summary id="sum4">Signs and Symptoms?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                    <strong><br><div class = "align">Worrying Excessively:</div></strong><br>
+                    <u><div style = "text-align: left; margin-left: 1.5 em">For worrying to be considered to be a sign of anxiety, it must be:</u></div?>
+                        <li style= 'text-align: left; '>Experienced nearly daily for six months at least and be difficult to manage.</li>
+                        <li style= 'text-align: left; '>Intrusive and extreme, resulting in difficulty focusing and getting through the day.</li>
+                    <strong><br><div class= "align">Agitation:</div></strong><br>
+                    <u><div style = "text-align: left; margin-left: 1.5 em">Experiencing agitation results in the following effects throughout the body: </u></div>
+                        <li style= 'text-align: left; '>Racing pulse.</li>
+                        <li style= 'text-align: left; '>Sweaty palms.</li>
+                        <li style= 'text-align: left; '>Shaky hands.</li>
+                        <li style= 'text-align: left; '>Dry mouth.</li>
+                    <br><li style= 'text-align: left; '>People with anxiety disorder tend to experience these effects for longer periods of time.</li>
+                    <strong><br><div class = "align">Irritability</div></strong>
+                    <strong><br><div class = "align">Tense Muscles:</div></strong>
+                    <li style= 'text-align: left; '>Another symptom is having tension in muscles on most days of the week.</li>
+                    <strong><br><div class = "align">Difficulty falling asleep or staying asleep</div></strong>
+                    <strong><br><div class = "align">Panic attacks</div></strong>
+                    <strong><br><div class = "align">Avoiding social situations:</div></strong>
+                    <br><u><div style = "text-align: left; margin-left: 1.5 em">This type of symptom is a sign of social anxiety disorder, which has other signs such as:</u></div>
+                        <li style= 'text-align: left; '>Being fearful or feeling anxious about social situations.</li>
+                        <li style= 'text-align: left; '>Concerned you might be judged by others.</li>
+                        <li style= 'text-align: left; '>Fearing the possibility of being humiliated in front of others.</li>
+                        <li style= 'text-align: left; '>Avoiding social situations because of fears.</li>
+                    <strong><br><div class = "align">Irrational phobias:</div></strong><br>
+                    <u>Common phobias include</u>:
+                        <li style= 'text-align: left; '>Animal phobias.</li>
+                        <li style= 'text-align: left; '>Natural environment phobias (natural events such as hurricanes or floods).</li>
+                        <li style= 'text-align: left; '>Blood-injection-injury phobias.</li>
+                        <li style= 'text-align: left; '>Situation phobias (situations such as an airplane or elevator).</li>
                 </div>
             </details>
             <details class="details">
@@ -159,23 +183,21 @@ include("connection.php");
                     <br><strong>The common causes include:</strong>
                     <div class ="alignment">
                         <ul>
-                            <br><li><strong>Early childhood trauma:</strong>Some of the events affect the way one's body reacts to fear and stressful situations.</li>
+                            <br><li><strong>Early childhood trauma:</strong> Some of the events affect the way one's body reacts to fear and stressful situations.</li>
                             <br><li><strong>Brain structure:</strong> There's a greater risk for depression if the frontal lobe of one's brain is less active. However, scientists do not know if this happens before or after the onset of depressive symptoms.</li>
                             <br><li><strong> Medical conditions:</strong> Certain conditions may put a person at higher risk, such as chronic illness, insomnia, chronic pain, or attention-deficit hyperactivity disorder (ADHD).</li>
                             <br><li><strong>Drug use:</strong> A history of drug or alcohol misuse can affect one's risk. About 21% of people who have a substance use problem also experience depression.</li>
                         </ul>
-                    </div>
-                    <div class = "alignment">
                         <p>In addition to these causes, other risk factors for depression include:</p>
                     </div>
-                        <div class = "alignment">
-                            <ul>
+                    <div class = "alignment">
+                        <ul>
                             <li> low self-esteem or being self-critical</li>
                             <li> personal history of mental illness</li>
                             <li>certain medications</li>
                             <li>stressful events, such as the loss of a loved one</li>
-                            <ul>
-                        </div>
+                        <ul>
+                    </div>
                 </div>
             </details>
             <details class="details">
@@ -191,11 +213,41 @@ include("connection.php");
             <details class="details">
                 <summary id="sum4">Signs and Symptoms?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                    <strong><br><div class = "align">Hopeless/helpless outlook on life in general:</div></strong><br>
+                    <u><div class = "alignment">Other feelings that could be a sign include: </u></div>
+                        <li style= 'text-align: left; '>Worthlessness.</li>
+                        <li style= 'text-align: left; '>Inappropriate guilt.</li>
+                        <li style= 'text-align: left; '>Self-hate.</li>
+                    <strong><br><div class= "align">Common thoughts that recur:</div></strong><br>
+                    <li style= 'text-align: left; '>“What’s the point?”</li>
+                    <li style= 'text-align: left; '>“It’s my fault.”</li>
+                    <strong><br><div class= "align">Lost interest in things that used to excite you:</div></strong><br>
+                    <u><div class = "alignment">Losing interest in things such as:</u> </div>
+                        <li style= 'text-align: left; '>Hobbies.</li>
+                        <li style= 'text-align: left; '>Spending time with friends/family.</li>
+                        <li style= 'text-align: left; '>Sports.</li>
+                        <li style= 'text-align: left; '>Sex.</li>
+                    <strong><br><div class = "align">Fatigue and problems with sleep:</div></strong>
+                    <li style= 'text-align: left; '>Lack of energy and feeling fatigued often comes with having depression.</li>
+                    <li style= 'text-align: left; '>Insomnia can also be linked to depression as one may lead to the other and vice versa.</li>
+                    <strong><br><div class = "align">Anxiety:</div></strong>
+                    <li style= 'text-align: left; '>Often, anxiety and depression coexist.</li>
+                    <strong><br><div class = "align">Irritability (especially in men who have depression)</div></strong>
+                    <strong><br><div class = "align">Fluctuating appetite and weight</div></strong>
+                    <strong><br><div class = "align">Uncontrollable emotions:</div></strong>
+                    <br><u>Experiencing uncontrollable changes in emotions and having mood swings though no external situation has encouraged the emotions, for instance</u>:
+                        <li style= 'text-align: left; '>Outbursts of anger.</li>
+                        <li style= 'text-align: left; '>Crying uncontrollably.</li>
+                    <strong><br><div class = "align">Being fixated on death:</div></strong><br>
+                    <li style= 'text-align: left; '>Often, suicide is linked to depression.</li>
+                    <u>It is very important to act and seek help if you notice suicidal symptoms that put someone at urgent risk of self-harm</u>:
+                        <li style= 'text-align: left; '>Call the police (10111) or your local emergency number.</li>
+                        <li style= 'text-align: left; '>Don’t leave the person alone until help arrives.</li>
+                        <li style= 'text-align: left; '>Listen and don’t be judgemental or show panic. Remain as calm as possible.</li>
+                        <li style= 'text-align: left; '>Remove any harmful items that can/might cause any harm:</li>
+                        <li style= 'text-align: left; '>If you think that someone is considering committing suicide, try calling: </li>
+                </ul>
                 </div>
             </details>
             <details class="details">
@@ -274,21 +326,62 @@ include("connection.php");
             <details class="details">
                 <summary id="sum4">Signs and Symptoms?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                    <strong><br><div class = "align">Bipolar symptoms include mania and depression symptoms:</div></strong><br>
+                    <u>Signs of mania</u>:
+                        <li style= 'text-align: left; '>Feeling extremely restless or impulsive.</li>
+                        <li style= 'text-align: left; '>Needing less sleep.</li>
+                        <li style= 'text-align: left; '>Being overconfident in your abilities.</li>
+                        <li style= 'text-align: left; '>Engaging in risky behaviour (like gambling with little money, impulsive sex).</li>
+                </ul>
                 </div>
             </details>
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                    <strong><br><div class = "align">Limit your exposure to your triggers:</div></strong><br>
+                    <u>Common triggers can include</u>:
+                        <li style= 'text-align: left; margin-left: 1em '>Arguments with loved ones</li>
+                        <li style= 'text-align: left; margin-left: 1em  '>Challenges at school/work</li>
+                        <li style= 'text-align: left; margin-left: 1em '>Lack of sleep</li>
+                        <li style= 'text-align: left; margin-left: 1em '>Stress</li>
+                        <li style= 'text-align: left; margin-left: 1em '>Financial issues</li>
+                    <br><div class = "alignment"><li>Ensure that once you’ve identified your triggers, you limit your exposure to them if possible. If not possible, use coping techniques that can help you endure the situation currently (the other techniques mentioned).</div></li>
+                    <strong><br><div class= "align">Know early warning signs:</div></strong>
+                    <div class = "alignment"><li>Ensure you’re able to identify warning signs of an approaching manic or depressive episode. What can help is making a list of early signs that accompanied your past mood episodes. Thereafter, with your warning signs and your triggers in mind, keep track of how you’re feeling so as to be able to identify whether you’re experiencing the signs and why.</li></div><br>
+                    <u>Common warning signs of depression</u>:
+                        <li style= 'text-align: left; margin-left: 1em  '>You’ve started isolating yourself.</li>
+                        <li style= 'text-align: left; margin-left: 1em '>People irritate and bother you.</li>
+                        <li style= 'text-align: left; margin-left: 1em '>You experience headaches frequently.</li>
+                        <li style= 'text-align: left; margin-left: 1em '>You’ve lost interest in others.</li>
+                        <li style= 'text-align: left;margin-left: 1em  '>You experience cravings for sweet foods.</li>
+                        <li style= 'text-align: left; margin-left: 1em '>You’re sleepy and nap during the day often.</li>
+                    <br><u>Common warning signs of mania or hypomania</u>:
+                        <li style= 'text-align: left;margin-left: 1em  '>You find it hard to focus.</li>
+                        <li style= 'text-align: left; margin-left: 1em '>You’re hungry throughout the day.</li>
+                        <li style= 'text-align: left;margin-left: 1em  '>You have increased energy that you need to release by moving.</li>
+                        <li style= 'text-align: left; margin-left: 1em  '>You feel easily irritable.</li>
+                        <li style= 'text-align: left; margin-left: 1em  '>You’re talking at a faster pace than usual.</li>
+                    <strong><br><div class = "align">Take better care of yourself:</div></strong><br>
+                    <u><div style = "text-align: left; margin-left: 1.5 em">Self-care that commonly helps people with bipolar disorder reduce their symptoms</div></u>:
+                        <li style= 'text-align: left;margin-left: 1em  '>Get enough sleep (no less than 8 hours).</li>
+                        <li style= 'text-align: left;margin-left: 1em  '>Join a support group and attend.</li>
+                        <li style= 'text-align: left; margin-left: 1em '>Do something fun and creative (journaling, dancing, spending time with loved ones).</li>
+                        <li style= 'text-align: left;margin-left: 1em  '>Make time to take a break and relax.</li>
+                        <li style= 'text-align: left; margin-left: 1em '>Keep your body active (walk/stretch/exercise).</li>
+                        <li style= 'text-align: left;margin-left: 1em  '>Reach out to trustworthy loved ones when you need help.</li>
+                        <li style= 'text-align: left;margin-left: 1em  '>Reduce your intake of sweet foods, caffeine and alcohol.</li>
+                    <strong><div class = "align"> </br>Connect/network with your support system:</div></strong>
+                    <div class = "alignment">
+                    <li>Avoid isolating yourself from others. Engaging regularly with loved ones you’re comfortable with is important so that you have trustworthy people to turn to when you need help and support.</li>
+                    </div>
+                    <strong><br><div class = "align">Minimize your stress levels:</div></strong>
+                    <div class = "alignment">
+                    <li>Practice deep breathing and meditation or yoga as the relaxation these techniques provide can lift your mood.</li>
+                    <li>Make leisure sessions a priority because feeling good and being playful/creative is necessary for your emotional and mental well-being.</li>
+                    </div>
+                </ul>
                 </div>
             </details>
         </div>
@@ -328,11 +421,35 @@ include("connection.php");
             <details class="details">
                 <summary id="sum4">Signs and Symptoms?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                    <strong><br><div class = "align">PTSD symptoms fall into four categories:</div></strong><br>
+                    <u>Intrusion</u>:
+                        <li style= 'text-align: left; '>Flashbacks that make you feel like you are reliving the event recurrently.</li>
+                        <li style= 'text-align: left; '>Nightmares about the event frequently.</li>
+                        <li style= 'text-align: left; '>Vivid memories of the event.</li>
+                        <li style= 'text-align: left; '>Intense mental and physical when you think about the event.</li>
+                    <br><u>Avoidance</u>:
+                    <li style= 'text-align: left; '>Avoiding people, places or situations that remind you of the traumatic event.</li>
+                    <br><u>Arousal and reactivity</u>:
+                        <li style= 'text-align: left; '>Difficulty concentrating.</li>
+                        <li style= 'text-align: left; '>Startling easily and having an exaggerated response when you’re startled. </li>
+                        <li style= 'text-align: left; '>Feeling on edge constantly.</li>
+                        <li style= 'text-align: left; '>Being irritable.</li>
+                        <li style= 'text-align: left; '>Bursts of anger.</li>
+                    <br><u>Cognition and mood</u>:
+                        <li style= 'text-align: left; '>Negative thoughts about yourself.</li>
+                        <li style= 'text-align: left; '>Feeling guilty, worry or blame that are distorted.</li>
+                        <li style= 'text-align: left; '>Difficulty remembering important parts of the events.</li>
+                        <li style= 'text-align: left; '>Decreased interest in activities you once felt passionate about.</li>
+                    <strong><div class = "align"></br>People with PTSD can experience depression and panic attacks:</div></strong><br>
+                    <u>Panic attacks can have symptoms like</u>:
+                        <li style= 'text-align: left; '>Agitation</li>
+                        <li style= 'text-align: left; '>Excitability </li>
+                        <li style= 'text-align: left; '>Headaches</li>
+                        <li style= 'text-align: left; '>Fainting</li>
+                        <li style= 'text-align: left; '>Light-heartedness</li>
+                        <li style= 'text-align: left; '>Dizziness</li>
+                </ul>
                 </div>
             </details>
             <details class="details">
@@ -417,11 +534,15 @@ include("connection.php");
             <details class="details">
                 <summary id="sum4">Signs and Symptoms?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <div class = "alignment">
+                    <ul>
+                        <li>Dieting consistently though being concerningly underweight.</li>
+                        <li>Depression/lethargic stage.</li>
+                        <li>Eating with ritualistic patterns (like eating on your own, playing with your food).</li>
+                        <li>Obsessing over calories and fat contents of food.</li>
+                        <li>Becoming isolated and avoiding social events and loved ones. </li>
+                    </ul>
+                </div>
                 </div>
             </details>
             <details class="details">
@@ -477,21 +598,31 @@ include("connection.php");
             <details class="details">
                 <summary id="sum4">Signs and Symptoms?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <div class = "alignment">
+                    <ul>
+                        <li>Spending money on drugs and alcohol even though you can’t afford it.</li>
+                        <li>Not succeeding in your attempts to stop using drugs or alcohol.</li>
+                        <li>Doing unusual or risky things to get drugs or alcohol (like stealing).</li>
+                        <li>Continuing to use drugs and alcohol, even though you’re aware it’s causing issues in your life.</li>
+                    </ul>
+                </div>
                 </div>
             </details>
             <details class="details">
                 <summary id="sum5">How to Cope</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <ul>
+                        <strong><br><div class = "align">Practice mindfulness:</div></strong>
+                        <li>Make use of mindfulness and meditation techniques which can assist you with working through challenging thoughts and emotions by helping you refocus your attention and accept your experiences and challenges without judgement or negativity.</li>
+                        <strong><br><div class= "align">Distract yourself:</div></strong>
+                        <li>Engage in some form of physical activity – walk, stretch, dance, read, watch TV or exercise - when triggering hardships arise. This refocuses your attention on your body movements and anything other than your challenging emotions and thoughts. In this way, after a while of practicing this way of coping, you can replace the habit of resorting to substances with a healthier and productive habit. This takes time and discipline – so be patient with yourself while also holding yourself accountable.</li>
+                        <strong><br><div class = "align">Journal:</div></strong>
+                        <li>This helps you avoid internalizing your feelings and thoughts by releasing them on paper. Challenging emotions and thoughts are meant to be released but only in productive and healthy ways – journaling being one of those ways. It can also help you process your emotions and thoughts.</li>
+                        <strong><div class = "align"> </br>Build a sober support system/network:</div></strong>
+                        <li>Understanding that you are not alone (and do not have to be alone) is important. Open yourself up to new relationships that will support and encourage your recovery and surround yourself with people you can rely on and trust with your challenges as well as reach out to in times of need.</li>
+                        <strong><br><div class = "align">Become a part of a support group and attend meetings:</div></strong>
+                        <li>These meetings can provide you with guidance to reduce/manage or stop substance use. Not only that; during these meetings you can meet people recovering who can be a part of your support system/network.</li>
+                    </ul>
                 </div>
             </details>
         </div>
