@@ -45,17 +45,17 @@ include("connection.php");
       <li> The SA Depression and Anxiety Group (011) 783 1474/6</li>
       <li>Post-Traumatic Stress Disorder Clinic (021)938-9229</li>
     </ul>
-    <p>Or you can discuss with our chat bot!</p>
+    <span><p>Or you can discuss with our ChatBot!</p></span>
   </div>
   <div class="supportbg2"></div>
      <!-- Footer -->
     <footer>
         <div class="more">About <br>
           <div class="morecontent">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus maxime harum alias sed culpa aliquid voluptas corrupti et quibusdam mollitia delectus perspiciatis, exercitationem laboriosam sit rem vero nihil commodi numquam? <br>
-           <p>Let's Keep in touch !</p>
+           <p>Support</p>
            <a href="https://www.facebook.com/TheSADAG/ " target="_blank" class="fa fa-facebook"></a>
-           <a href="#" class="fa fa-twitter"></a>
-           <a href="#" class="fa fa-instagram"></a>
+           <a href="https://twitter.com/thesadag" class="fa fa-twitter" target="_blank"></a>
+           <a href="https://www.instagram.com/thesadag/?hl=en" class="fa fa-instagram" target="_blank"></a>
        <a href="https://www.youtube.com/user/Psych2GoTv" class="fa fa-youtube" target="_blank"></a>
        <p class="created">Created by CTRL Intelligence 2021 All rights reserved</p>
 

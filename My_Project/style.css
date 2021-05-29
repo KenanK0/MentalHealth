@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alef&family=Architects+Daughter&family=Crimson+Text&family=Finger+Paint&family=Lovers+Quarrel&family=New+Tegomin&family=Patrick+Hand&family=Roboto+Mono:wght@100&family=Special+Elite&display=swap');
 /*some imported font : 
 font-family: 'Alef', sans-serif;
@@ -8,6 +9,7 @@ font-family: 'New Tegomin', serif;
 font-family: 'Patrick Hand', cursive;
 font-family: 'Roboto Mono', monospace;
 font-family: 'Special Elite', cursive;
+font-family: 'Poppins', sans-serif;
 */
 /*cursor style */
 .cursor{
@@ -365,8 +367,19 @@ ul li{
     background-image: url("support.jpg");
     height: 90vh;
     background-size: cover;
+    font-weight: bold;
     
     
+}
+.supportbg1 span{
+    
+    position: absolute;
+    bottom: 0;
+    left:0;
+    font-size: 25px;
+    padding: 10px;
+    color: lightblue;
+   
 }
 
 .supportbg2{
@@ -470,6 +483,7 @@ summary {
       
 }
 .part2{
+    font-family: 'Poppins', sans-serif;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -480,6 +494,7 @@ summary {
     
     color: black;
     opacity: 0.7;
+
 }
 
 /* Drop down menu */

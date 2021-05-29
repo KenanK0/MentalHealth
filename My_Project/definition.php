@@ -95,11 +95,7 @@ include("connection.php");
             <details class="details">
                 <summary id="sum3">How can you tell if someone you know might have Anxiety Disorder?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <p class="alignment" >If someone is experiencing anxiety, constant unnecessary fear, always on the watch feeling nervous and restless tense and not relaxed. Others are increased heart rate and sweating and can’t focus on because of the worry that the person has.</p>
                 </div>
             </details>
             <details class="details">
@@ -161,7 +157,6 @@ include("connection.php");
         <div id="depression">
             <br><br><br><br>
             <h3>Depression</h3>
-            <!-- <img src="depression.png" alt=""> -->
             <details class="details">
                 <summary id="sum1">What is Depression?</summary><br>
                 <div id="p">
@@ -203,11 +198,9 @@ include("connection.php");
             <details class="details">
                 <summary id="sum3">How can you tell if someone you know might have Depression?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <p class="alignment">	If someone is experiencing depression, there are a lot of things that are an indication of whether someone is depressed or not. <br><br>
+                     Once a person starts talking negatively about something that most people find good that person might be undergoing depression,  <br><br>
+                       Other people you can tell by their music preference that they are undergoing certain emotions so if a person prefers sad song or music than others then that person must be depressed. <br><br> There are many indications or symptoms of depression, if you are experiencing depression you’ll see yourself feeling sad every time, most of the time having bad dreams, having dark thoughts like killing yourself and others. There are a lot of things but these are one of them that are an indication of depression.</p>
                 </div>
             </details>
             <details class="details">
@@ -524,11 +517,7 @@ include("connection.php");
             <details class="details">
                 <summary id="sum3">How can you tell if someone you know might have Eating disorder?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <p>If someone has a Polar eating disorder, whenever they feel sad or not okay emotionally they eat and vomit the food but most of the time it goes with being depressed and trying to overcome the depression using food. Others constantly eat for no reason just feed the disorder.</p>
                 </div>
             </details>
             <details class="details">
@@ -588,11 +577,7 @@ include("connection.php");
             <details class="details">
                 <summary id="sum3">How can you tell if someone you know might have substance abuse disorder?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                    <p>If someone is experiencing substance abuse problem, it really depends which substance are they consuming but with regards to the problem, you will see them always consuming that thing e.g. alcohol or drugs without a stop. Most of the time they can’t control themselves because they are now addicted they rely on these things basically they can’t live without them.</p>
                 </div>
             </details>
             <details class="details">
@@ -641,10 +626,10 @@ include("connection.php");
     <footer>
         <div class="more">About <br>
           <div class="morecontent">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus maxime harum alias sed culpa aliquid voluptas corrupti et quibusdam mollitia delectus perspiciatis, exercitationem laboriosam sit rem vero nihil commodi numquam? <br>
-           <p>Let's Keep in touch !</p>
+           <p>Support</p>
            <a href="https://www.facebook.com/TheSADAG/" class="fa fa-facebook" target="_blank"></a>
-           <a href="#" class="fa fa-twitter"></a>
-           <a href="#" class="fa fa-instagram"></a>
+           <a href="https://twitter.com/thesadag" class="fa fa-twitter" target="_blank"></a>
+           <a href="https://www.instagram.com/thesadag/?hl=en" class="fa fa-instagram"  target="_blank"></a>
        <a href="https://www.youtube.com/user/Psych2GoTv" class="fa fa-youtube" target="_blank"></a>
        <p class="created">Created by CTRL Intelligence 2021 All rights reserved</p>
 
