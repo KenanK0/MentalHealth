@@ -634,13 +634,6 @@ include("connection.php");
     </div>
     
     </div>
-    <div>
-        <h3>Bibliography</h3>
-        <ol>
-            <li><p>GBD, <cite> 2017 Disease and Injury Incidence and Prevalence Collaborators. (2018). Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017. The Lancet. DOI:https://doi.org/10.1016/S0140-6736(18)32279-7</cite></p></li>
-            <li><p>World Health Organisation, <cite>2018. Mental health: strengthening our response. https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response. Accessed 13 May 2021. </cite></p></li>
-            </ol>
-    </div>
      <!-- Footer -->
     <footer>
         <div class="more"><b>About</b>
