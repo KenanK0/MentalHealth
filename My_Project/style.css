@@ -207,7 +207,7 @@ button{
 }
 /* footer */
 footer{
-   
+    font-family: 'Poppins', sans-serif;
     background-image: url(footerbg.jpg);
     padding: 5px;
     display: flex;

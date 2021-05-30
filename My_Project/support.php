@@ -51,9 +51,9 @@ include("connection.php");
   <div class="supportbg2"></div>
      <!-- Footer -->
     <footer>
-        <div class="more">About <br>
+        <div class="more"><b>About</b>
           <div class="morecontent">Our aim as the Let's heal organisation is to present an effective and innovative way to tackle and solve the social issue that is mental health(or the lack thereof) and illness by means of a website. Therefore, our content is purely made for bringing awareness within societies.<br>
-           <p>Support</p>
+           <p><b>Support</b></p>
            <a href="https://www.facebook.com/TheSADAG/ " target="_blank" class="fa fa-facebook"></a>
            <a href="https://twitter.com/thesadag" class="fa fa-twitter" target="_blank"></a>
            <a href="https://www.instagram.com/thesadag/?hl=en" class="fa fa-instagram" target="_blank"></a>
@@ -69,7 +69,7 @@ include("connection.php");
         <div class="contact">
           
         <form action="support.php#form" id="form" method="post">
-       <span  > Contact us </span><br>
+       <span  ><b> Contact us</b> </span><br>
         <label for=""> <span class="contacta" >Email</span> </label> <br> <input type="email" name="email" size=30px required > <br>
         <label for=""> <span class="contacta" >Message</span> </label> <br> <textarea name="msg" id="" cols="35" rows="8" ></textarea> <br>
         <span><?php echo $arrErrors['errMsg']; ?></span>
