@@ -508,7 +508,7 @@ summary {
 
 .drp-dwn {
     float: left;
-    overflow: hidden;
+    
 }
 
 .drp-dwn .drp-btn {
@@ -583,3 +583,120 @@ a:hover{
     color:turquoise;
     font-weight: bold;
 }
+/* Responsive */
+@media screen and (max-width: 600px) {
+    body{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .logo{
+        display: none;
+    }
+    .links{
+        display: flex;
+        width: 100%;
+        justify-content: flex-end;
+        align-items: center;
+        
+    }
+    .links a {
+       
+        display: flex;
+        justify-content:space-evenly;
+        padding:10px 30px;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 17px;
+        color:#FFF;
+        
+    }.drpdwn-options a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }.drp-dwn button{
+        padding:0;
+        
+    }
+    .paragrah{
+       
+        font-weight: bolder;
+        color:maroon;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 20px;
+        width: 80%;
+      
+        
+    
+    }
+    .next{
+        display: none;
+    }
+    .mhh{
+        line-height: 1.5;
+        
+        margin-left: 20px;
+       font-size: 18px;
+       
+       font-weight: bold;
+    }
+    .mhh::first-letter{
+        font-family: Arial, Helvetica, sans-serif;
+        color: maroon;
+        font-size: 3rem;
+        line-height: 0.65;
+        margin: 0.1em 0.1em 0.2em 0;
+    }
+    iframe{
+        width: 80%;
+        padding: 10px 50px;
+    }
+    .typing{
+        position: relative;
+        margin-left: 15px;
+      
+    }
+    .details {
+        color: white;
+        padding: 10px;
+        text-align: center;
+        font-weight: 500;
+        width: 60%;
+        margin-left:70px;
+        
+    }
+    .wlk img{
+        display: none;
+    }
+    .typing::after{
+        display: none;
+    }
+    #icon{
+        width: 50%;
+    }
+    @keyframes slidein {
+    0%{
+        transform: translateX(0);
+        opacity: 1;
+    }
+    50%{
+        transform: translateX(200);
+        opacity: 1;
+    }
+    100%{
+        transform: translateX(300px);
+        opacity: 0;
+    }
+    }
+    .supportbg1 span{
+        display: none;
+    }
+    textarea{
+        width: 90%;
+    }
+    
+  }
+  
