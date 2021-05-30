@@ -309,11 +309,11 @@ include("connection.php");
             <details class="details">
                 <summary id="sum3">How can you tell if someone you know might have Bipolar?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <div class = "alignment">
+                    <p>A person with bipolar disorder often has cycles of elevated and depressed mood that fit the description of "manic depression". Therefore, when a person's illness follows this pattern, diagnosing bipolar disorder is thus relatively easy. </p>
+                    <p> However, Bipolar disorder can be very hard to detect as symptoms can defy the expected manic-depressive sequence. Infrequent episodes of mild mania or hypomania can go undetected. In addition, Depression can overshadow other aspects of the illness. Sometimes, symptoms of depression and mania can occur at the same time. and susbstance abuse, if present can cloud the picture.</p>
+                    <p> In addition, Bipolar disorder should only be disgnosed by a medical doctor,clinical psychologist, or other trained health provider who has spent time with the person and has conducted a proper mental health assessment. Diagnoses are complicated with many nuances. Please do not attempt to diagnose someone based on the symptoms you read in magazines or on the internet. If you are concerned, speak to a trained health professional.</p>
+                </div>
                 </div>
             </details>
             <details class="details">
@@ -398,17 +398,34 @@ include("connection.php");
             <details class="details">
                 <summary id="sum2">What causes PTSD?</summary><br>
                 <div id="p">
-                    <p>Epcot is a theme park at Walt Disney
-                        World Resort featuring exciting attractions,
-                        international pavilions,
-                        award-winning fireworks and
-                        seasonal special events</p>
+                <div class = "alignment">
+                    <p>PTSD is caused by being exposed to trauma, including experiencing, witnessing or even learning about a severely traumatic experience</p>
+                    <br><strong> Events that may cause PTSD include:</strong>
+                    <ul>
+                        <li>Sexual or physical assault</li>
+                        <li> Natural disasters </li> 
+                        <li>Auto accidents  </li>
+                        <li>Severe injury </li>
+                        <li> Abuse or neglect</li>
+                        <li>Traumatic birth which is known as postpartum PTSD </li>
+                    </ul> 
+                    <p> According to the NHS, 1 in 3 people who experience severe trauma will develop PTSD. There are a few factors that make it more likely that someone will develop PTSD after a traumatic event.</p>
+                    <strong><p> Risk factors for PTSD include:</p></strong>
+                    <ul>
+                        <li> having a history of mental health disorders such as panic disorder, depression, or OCD</li>
+                        <li> experiencing further trauma or stress around the event </li>
+                        <li> having little support from loved ones after the event </li>
+                    </ul>
+                    <p> In addition to the above, the brain structure and stress hormones may also play a role in the development of PTSD.</p>
+                </div>
                 </div>
             </details>
             <details class="details">
                 <summary id="sum3">How can you tell if someone you know might have PTSD?</summary><br>
                 <div id="p">
+                <div class = "alignment">
                     <p>A person has PTSD when the symptoms of the disorder cause distress and interference in daily life.  Often, people with PTSD are plagued by persistent frightening memories of the traumatic event called flashbacks; and they constantly emotionally numbed by the ordeal. What makes the flashbacks especially bad is that they bring back the emotions associated with the traumatic event</p>
+                </div>
                 </div>
             </details>
             <details class="details">
@@ -577,7 +594,9 @@ include("connection.php");
             <details class="details">
                 <summary id="sum3">How can you tell if someone you know might have substance abuse disorder?</summary><br>
                 <div id="p">
+                <div class = "alignment">
                     <p>If someone is experiencing substance abuse problem, it really depends which substance are they consuming but with regards to the problem, you will see them always consuming that thing e.g. alcohol or drugs without a stop. Most of the time they can’t control themselves because they are now addicted they rely on these things basically they can’t live without them.</p>
+                </div>
                 </div>
             </details>
             <details class="details">
@@ -625,7 +644,7 @@ include("connection.php");
      <!-- Footer -->
     <footer>
         <div class="more">About <br>
-          <div class="morecontent">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus maxime harum alias sed culpa aliquid voluptas corrupti et quibusdam mollitia delectus perspiciatis, exercitationem laboriosam sit rem vero nihil commodi numquam? <br>
+          <div class="morecontent"> Our aim as the Let's heal organisation is to present an effective and innovative way to tackle and solve the social issue that is mental health(or the lack thereof) and illness by means of a website. Therefore, our content is purely made for bringing awareness within societies.<br>
            <p>Support</p>
            <a href="https://www.facebook.com/TheSADAG/" class="fa fa-facebook" target="_blank"></a>
            <a href="https://twitter.com/thesadag" class="fa fa-twitter" target="_blank"></a>

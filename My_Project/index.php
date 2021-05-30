@@ -67,7 +67,7 @@ include("connection.php");
   <!-- Footer -->
   <footer>
     <div class="more">About <br>
-      <div class="morecontent">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus maxime harum alias sed culpa aliquid voluptas corrupti et quibusdam mollitia delectus perspiciatis, exercitationem laboriosam sit rem vero nihil commodi numquam? <br>
+      <div class="morecontent">Our aim as the Let's heal organisation is to present an effective and innovative way to tackle and solve the social issue that is mental health(or the lack thereof) and illness by means of a website. Therefore, our content is purely made for bringing awareness within societies.<br>
        <p>Support</p>
        <a href="https://www.facebook.com/TheSADAG/" class="fa fa-facebook" target="_blank"></a>
        <a href="https://twitter.com/thesadag" class="fa fa-twitter" target="_blank"></a>
